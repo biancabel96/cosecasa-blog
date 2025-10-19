@@ -1,0 +1,430 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@custom-variant dark (&:is(.dark *));
+
+:root {
+  /* Foundation palette */
+  --color-black: #000000;
+  --color-white: #ffffff;
+  --color-brand-primary: #5a9cd1;
+
+  /* Semantic tokens */
+  --background:  var(--color-black);
+  --foreground: var(--color-white);
+  --card: var(--background);
+  --card-foreground: var(--foreground);
+  --popover: var(--background);
+  --popover-foreground: var(--foreground);
+  --primary: var(--color-brand-primary);
+  --primary-foreground: var(--color-white);
+  --secondary: color-mix(in srgb, var(--color-brand-primary) 35%, var(--color-black) 65%);
+  --secondary-foreground: var(--color-white);
+  --muted: color-mix(in srgb, var(--color-black) 85%, var(--color-brand-primary) 15%);
+  --muted-foreground: color-mix(in srgb, var(--color-white) 80%, var(--color-brand-primary) 20%);
+  --accent: color-mix(in srgb, var(--color-brand-primary) 45%, var(--color-black) 55%);
+  --accent-foreground: var(--color-white);
+  --destructive: color-mix(in srgb, var(--color-brand-primary) 25%, var(--color-black) 75%);
+  --destructive-foreground: var(--color-white);
+  --border: color-mix(in srgb, var(--color-brand-primary) 30%, var(--color-black) 70%);
+  --input: var(--border);
+  --ring: var(--color-brand-primary);
+  --chart-1: var(--color-brand-primary);
+  --chart-2: color-mix(in srgb, var(--color-brand-primary) 60%, var(--color-white) 40%);
+  --chart-3: color-mix(in srgb, var(--color-brand-primary) 40%, var(--color-white) 60%);
+  --chart-4: color-mix(in srgb, var(--color-brand-primary) 80%, var(--color-white) 20%);
+  --chart-5: color-mix(in srgb, var(--color-brand-primary) 50%, var(--color-black) 50%);
+  --radius: 0.5rem;
+  --sidebar: var(--background);
+  --sidebar-foreground: var(--foreground);
+  --sidebar-primary: var(--primary);
+  --sidebar-primary-foreground: var(--primary-foreground);
+  --sidebar-accent: var(--accent);
+  --sidebar-accent-foreground: var(--accent-foreground);
+  --sidebar-border: var(--border);
+  --sidebar-ring: var(--ring);
+
+  /* Brand shortcuts built on top of the palette */
+  --brand-primary: var(--color-brand-primary);
+  --brand-primary-foreground: var(--color-white);
+  --brand-secondary: var(--accent);
+  --brand-secondary-foreground: var(--accent-foreground);
+  --brand-neutral: var(--foreground);
+  --brand-muted: var(--muted);
+}
+
+.dark {
+  --background: color-mix(
+    in srgb,
+    color-mix(in srgb, var(--color-black) 94%, var(--color-white) 6%) 97%,
+    var(--color-brand-primary) 3%
+  );
+  --foreground: var(--color-white);
+  --card: var(--background);
+  --card-foreground: var(--foreground);
+  --popover: var(--background);
+  --popover-foreground: var(--foreground);
+  --primary: var(--color-brand-primary);
+  --primary-foreground: var(--color-white);
+  --secondary: color-mix(in srgb, var(--color-brand-primary) 35%, var(--color-black) 65%);
+  --secondary-foreground: var(--color-white);
+  --muted: color-mix(in srgb, var(--color-black) 85%, var(--color-brand-primary) 15%);
+  --muted-foreground: color-mix(in srgb, var(--color-white) 80%, var(--color-brand-primary) 20%);
+  --accent: color-mix(in srgb, var(--color-brand-primary) 45%, var(--color-black) 55%);
+  --accent-foreground: var(--color-white);
+  --destructive: color-mix(in srgb, var(--color-brand-primary) 25%, var(--color-black) 75%);
+  --destructive-foreground: var(--color-white);
+  --border: color-mix(in srgb, var(--color-brand-primary) 30%, var(--color-black) 70%);
+  --input: var(--border);
+  --ring: var(--color-brand-primary);
+  --sidebar: var(--background);
+  --sidebar-foreground: var(--foreground);
+  --sidebar-primary: var(--primary);
+  --sidebar-primary-foreground: var(--primary-foreground);
+  --sidebar-accent: var(--accent);
+  --sidebar-accent-foreground: var(--accent-foreground);
+  --sidebar-border: var(--border);
+  --sidebar-ring: var(--ring);
+
+  --brand-primary: var(--color-brand-primary);
+  --brand-primary-foreground: var(--color-white);
+  --brand-secondary: var(--accent);
+  --brand-secondary-foreground: var(--accent-foreground);
+  --brand-neutral: var(--foreground);
+  --brand-muted: var(--muted);
+}
+
+@theme inline {
+  /* Enhanced typography system for Italian elegance */
+  --font-sans: Arial, Helvetica, sans-serif;
+  --font-mono: var(--font-geist-mono);
+  --font-serif: "Times New Roman", Times, serif;
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-destructive-foreground: var(--destructive-foreground);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+  --color-brand-primary: var(--brand-primary);
+  --color-brand-primary-foreground: var(--brand-primary-foreground);
+  --color-brand-secondary: var(--brand-secondary);
+  --color-brand-secondary-foreground: var(--brand-secondary-foreground);
+  --color-brand-neutral: var(--brand-neutral);
+  --color-brand-muted: var(--brand-muted);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50;
+  }
+  body {
+    @apply bg-background text-foreground;
+    /* Added smooth scrolling and improved text rendering */
+    scroll-behavior: smooth;
+    text-rendering: optimizeLegibility;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  .font-serif {
+    font-family: var(--font-serif);
+  }
+  /* Added custom prose styles for better Italian typography */
+  .prose {
+    --tw-prose-body: var(--foreground);
+    --tw-prose-headings: var(--brand-primary);
+    --tw-prose-lead: var(--muted-foreground);
+    --tw-prose-links: var(--primary);
+    --tw-prose-bold: var(--primary);
+    --tw-prose-italic: var(--primary);
+    --tw-prose-counters: var(--muted-foreground);
+    --tw-prose-bullets: var(--muted-foreground);
+    --tw-prose-hr: var(--border);
+    --tw-prose-quotes: var(--foreground);
+    --tw-prose-quote-borders: var(--border);
+    --tw-prose-captions: var(--muted-foreground);
+    --tw-prose-code: var(--primary);
+    --tw-prose-pre-code: var(--foreground);
+    --tw-prose-pre-bg: var(--muted);
+    --tw-prose-th-borders: var(--border);
+    --tw-prose-td-borders: var(--border);
+  }
+  /* Added line-clamp utility for text truncation */
+  .line-clamp-3 {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+  }
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    @apply text-brand-primary;
+  }
+
+  /* Article body typography tuned for long-form reading */
+  .article-content {
+    font-family: var(--font-sans);
+    font-size: 17px;
+    line-height: 1.75;
+    color: var(--foreground);
+    max-width: 68ch;
+    margin: 0 auto;
+    word-break: break-word;
+    hyphens: auto;
+  }
+
+  .article-content > * + * {
+    margin-top: 1.5em;
+  }
+
+  .article-content h1,
+  .article-content h2,
+  .article-content h3,
+  .article-content h4,
+  .article-content h5,
+  .article-content h6 {
+    font-family: var(--font-sans);
+    color: var(--brand-primary);
+    font-weight: 700;
+    scroll-margin-top: 6rem;
+  }
+
+  /* Hide h1 in content - title already shown in header */
+  .article-content h1 {
+    display: none;
+  }
+
+  /* Smaller, bolder headings for article hierarchy */
+  .article-content h2 { font-size: clamp(1.5rem, 1.8vw, 1.8rem); }
+  .article-content h3 { font-size: clamp(1.3rem, 1.6vw, 1.5rem); }
+  .article-content h4 { font-size: clamp(1.15rem, 1.4vw, 1.3rem); }
+  .article-content h5 { font-size: clamp(1.05rem, 1.2vw, 1.15rem); }
+  .article-content h6 { font-size: clamp(1rem, 1.1vw, 1.1rem); }
+
+  .article-content p,
+  .article-content ul,
+  .article-content ol {
+    font-family: var(--font-sans);
+    color: color-mix(in srgb, var(--foreground) 92%, #ffffff 8%);
+    letter-spacing: -0.01em;
+  }
+
+  .article-content p {
+    text-align: justify;
+    text-justify: inter-word;
+  }
+
+  .article-content a {
+    color: var(--brand-primary);
+    text-decoration: none;
+    border-bottom: 1px solid color-mix(in srgb, var(--brand-primary) 70%, transparent 30%);
+    transition: color 150ms ease, border-color 150ms ease;
+  }
+
+  .article-content a:hover {
+    color: color-mix(in srgb, var(--brand-primary) 80%, #ffffff 20%);
+    border-bottom-color: currentColor;
+  }
+
+  .article-content strong {
+    font-weight: 600;
+    color: var(--brand-primary);
+  }
+
+  .article-content em {
+    font-style: italic;
+  }
+
+  .article-content blockquote {
+    padding: 1.5rem;
+    margin: 2rem 0;
+    border-left: 4px solid var(--brand-primary);
+    background: color-mix(in srgb, var(--brand-primary) 6%, var(--background) 94%);
+    color: color-mix(in srgb, var(--foreground) 85%, #ffffff 15%);
+  }
+
+  .article-content ul,
+  .article-content ol {
+    padding-left: 1.5rem;
+  }
+
+  .article-content ul li {
+    list-style-type: disc;
+  }
+
+  .article-content ol li {
+    list-style-type: decimal;
+  }
+
+  .article-content li + li {
+    margin-top: 0.5rem;
+  }
+
+  .article-content figure {
+    margin: 2.5rem auto;
+    text-align: center;
+  }
+
+  .article-content img {
+    width: 100%;
+    height: auto;
+    border-radius: clamp(1rem, 3vw, 1.5rem);
+    box-shadow: 0 18px 45px rgba(0, 0, 0, 0.15);
+  }
+
+  .article-content figcaption {
+    margin-top: 0.75rem;
+    font-size: 0.95rem;
+    color: var(--muted-foreground);
+  }
+
+  .article-content hr {
+    margin: 3rem auto;
+    width: min(50%, 16rem);
+    border: none;
+    border-top: 1px solid color-mix(in srgb, var(--border) 85%, transparent 15%);
+  }
+
+  .article-content table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.95rem;
+  }
+
+  .article-content th,
+  .article-content td {
+    padding: 0.85rem 1rem;
+    border: 1px solid color-mix(in srgb, var(--border) 80%, transparent 20%);
+    text-align: left;
+  }
+
+  .article-content thead th {
+    background: color-mix(in srgb, var(--brand-primary) 12%, var(--background) 88%);
+    color: var(--foreground);
+    font-weight: 600;
+  }
+
+  .article-content code {
+    font-family: var(--font-mono);
+    font-size: 0.95em;
+    background: color-mix(in srgb, var(--brand-primary) 10%, var(--background) 90%);
+    color: color-mix(in srgb, var(--brand-primary) 80%, #ffffff 20%);
+    padding: 0.2em 0.45em;
+    border-radius: 0.45em;
+  }
+
+  .article-content pre {
+    margin: 2.5rem 0;
+    padding: 1.75rem;
+    background: color-mix(in srgb, var(--color-black) 94%, var(--brand-primary) 6%);
+    border-radius: 1.2rem;
+    border: 1px solid color-mix(in srgb, var(--brand-primary) 18%, transparent 82%);
+    box-shadow: 0 28px 60px rgba(0, 0, 0, 0.25);
+    overflow: auto;
+  }
+
+  .article-content pre code {
+    display: block;
+    padding: 0;
+    background: transparent;
+    color: inherit;
+  }
+
+  .article-content .hljs {
+    color: #f8f8f2;
+  }
+
+  .article-content .hljs-keyword,
+  .article-content .hljs-selector-tag,
+  .article-content .hljs-subst {
+    color: #97c7ff;
+  }
+
+  .article-content .hljs-literal,
+  .article-content .hljs-number,
+  .article-content .hljs-tag .hljs-attr {
+    color: #ffe082;
+  }
+
+  .article-content .hljs-string,
+  .article-content .hljs-title,
+  .article-content .hljs-name {
+    color: #9be7a0;
+  }
+
+  .article-content .hljs-attr,
+  .article-content .hljs-attribute {
+    color: #f48fb1;
+  }
+
+  .article-content .hljs-comment {
+    color: rgba(255, 255, 255, 0.45);
+    font-style: italic;
+  }
+
+  .article-content .hljs-addition {
+    color: #caffbf;
+  }
+
+  .article-content .hljs-deletion {
+    color: #ffadad;
+  }
+
+  .article-content pre::-webkit-scrollbar {
+    height: 8px;
+  }
+
+  .article-content pre::-webkit-scrollbar-track {
+    background: transparent;
+  }
+
+  .article-content pre::-webkit-scrollbar-thumb {
+    background: color-mix(in srgb, var(--brand-primary) 45%, var(--color-black) 55%);
+    border-radius: 9999px;
+  }
+
+  @media (max-width: 768px) {
+    .article-content {
+      font-size: 16px;
+      line-height: 1.7;
+    }
+
+    .article-content pre {
+      padding: 1.25rem;
+      border-radius: 1rem;
+    }
+  }
+}
