@@ -27,17 +27,15 @@ interface HomePageClientProps {
 }
 
 export function HomePageClient({ articles, categories }: HomePageClientProps) {
-  const [selectedCategories, setSelectedCategories] = useState<string[]>([])
+  const [selectedCategory, setSelectedCategory] = useState<string | null>(null)
 
   const filteredArticles = useMemo(() => {
-    if (selectedCategories.length === 0) return articles
-    return articles.filter((article) => article.categories.some((category) => selectedCategories.includes(category)))
-  }, [selectedCategories, articles])
+    if (!selectedCategory) return articles
+    return articles.filter((article) => article.categories.includes(selectedCategory))
+  }, [selectedCategory, articles])
 
   const toggleCategory = (category: string) => {
-    setSelectedCategories((prev) =>
-      prev.includes(category) ? prev.filter((c) => c !== category) : [...prev, category],
-    )
+    setSelectedCategory((current) => (current === category ? null : category))
   }
 
   const latestArticles = filteredArticles.slice(0, 3)
@@ -51,7 +49,7 @@ export function HomePageClient({ articles, categories }: HomePageClientProps) {
             {categories.map((category) => (
               <Button
                 key={category}
-                variant={selectedCategories.includes(category) ? "default" : "outline"}
+                variant={selectedCategory === category ? "default" : "outline"}
                 size="sm"
                 onClick={() => toggleCategory(category)}
                 className="text-sm"
