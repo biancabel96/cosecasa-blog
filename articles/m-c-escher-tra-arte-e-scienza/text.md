@@ -1,6 +1,6 @@
 ---
-title: M.C. Escher. Tra arte e scienza 
-date: 2025-10-05 
+title: M.C. Escher. Tra arte e scienza
+date: 2025-10-05T00:00:00.000Z
 tags: Cultura
 ---
 

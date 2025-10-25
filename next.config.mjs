@@ -1,5 +1,5 @@
-const owner = process.env.GITHUB_OWNER || "TheInkedEngineer"
-const repo = process.env.GITHUB_REPO || "cosecase-blog"
+const owner = process.env.GITHUB_OWNER
+const repo = process.env.GITHUB_REPO
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
