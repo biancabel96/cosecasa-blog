@@ -37,14 +37,22 @@ export default async function HomePage() {
             <div className="relative flex flex-col items-center gap-10 text-center md:flex-row md:items-start md:text-left">
               <div className="flex flex-col items-center gap-4 md:items-start">
                 <div className="rounded-[2.75rem] border border-border/60 bg-background/80 p-8 shadow-inner">
-                  <Image
-                    src="/logo.png"
-                    alt="Cosecase logo"
-                    width={220}
-                    height={220}
-                    priority
-                    className="h-40 w-40 object-contain md:h-48 md:w-48"
-                  />
+                  <form action="/" method="get">
+                    <button
+                      type="submit"
+                      aria-label="Torna alla home"
+                      className="block rounded-[2.75rem] focus:outline-none focus-visible:ring-2 focus-visible:ring-ring focus-visible:ring-offset-2 focus-visible:ring-offset-background"
+                    >
+                      <Image
+                        src="/logo.png"
+                        alt="Cosecase logo"
+                        width={220}
+                        height={220}
+                        priority
+                        className="h-40 w-40 object-contain md:h-48 md:w-48"
+                      />
+                    </button>
+                  </form>
                 </div>
               </div>
               <div className="flex-1 space-y-6">
