@@ -40,6 +40,7 @@ Le categorie principali di prodotto includono:
 ![](3.jpg)
 
 **Involtini di Eomuk** 
+
 (tortino di pesce coreano preparato con polpa di pesce bianco macinata, mescolata con amido, farina e condimenti, che viene poi modellata in varie forme come filetti, anelli o polpette)
 
 ![](4.jpg)
