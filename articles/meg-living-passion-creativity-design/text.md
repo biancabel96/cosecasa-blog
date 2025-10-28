@@ -1,6 +1,6 @@
 ---
 title: 'MEG Living® | Passion, Creativity, Design'
-date: 2025-10-26T00:00:00.000Z
+date: 2025-10-28T00:00:00.000Z
 tags: Design
 ---
 
