@@ -1,10 +1,10 @@
 ---
-title: Despar Italia: 65 anni di valori condivisi
-date: 2025-10-31 
-tags: Food & Beverage, Grocery 
+title: Despar Italia - 65 anni di valori condivisi
+date: 2025-10-31T00:00:00.000Z
+tags: 'Food & Beverage, Grocery'
 ---
 
-# Despar Italia: 65 anni di valori condivisi
+# Despar Italia - 65 anni di valori condivisi
 
 >**Despar Italia compie 65 anni** di presenza e, per l’occasione, ha organizzato un **Press Day 2025** a Milano
 
