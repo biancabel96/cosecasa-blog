@@ -40,6 +40,8 @@ In un clima di festa e partecipazione, la Fiera di San Martino di Chieri 2025 si
 
 In definitiva, l’edizione 2025 rappresenta un vero **omaggio al patrimonio enogastronomico del Piemonte**, unendo memoria, innovazione e convivialità in una celebrazione che racconta l’**anima di Chieri** e la sua capacità di far convivere storia, gusto e identità locale.
 
+![](11.jpg)
+
 _Ph. Credits: Maria Rosa Sirotti_
 
 Si ringraziano: Comune di Chieri, SGP Grandi Eventi, Ristorante Enoteca Caffè della Stazione, Cantina sperimentale del centro Bonafous, Dolci & Dolci.  
