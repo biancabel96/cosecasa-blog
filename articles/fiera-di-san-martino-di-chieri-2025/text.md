@@ -10,17 +10,21 @@ tags: 'Food & Beverage,Cultura,'
 
 ![](banner.jpg)
 
-Promossa dal **Comune di Chieri** e organizzata da **SGP Grandi Eventi**, la **Fiera di San Martino di Chier** è ormai un punto di riferimento per il mondo dell’**agricoltura, del commercio e dell’artigianato locale**, oltre che una vetrina d’eccezione per la valorizzazione delle **eccellenze enogastronomiche e culturali** del territorio piemontese.
+Promossa dal **Comune di Chieri** e organizzata da **SGP Grandi Eventi**, la **Fiera di San Martino di Chieri** è ormai un punto di riferimento per il mondo dell’**agricoltura, del commercio e dell’artigianato locale**, oltre che una vetrina d’eccezione per la valorizzazione delle **eccellenze enogastronomiche e culturali** del territorio piemontese.
+
+La cittadina annovera fra le sue specialità la focaccia dolce, **Focaccia di Chieri**, consumata a fine pasto. Oggi la versione tradizionale dal peso di mezzo chilo si trova in vendita nelle pasticcerie.
+
+ Situata sulle colline torinesi, Chieri presenta un nucleo urbano più antico con **tipica impronta medievale** dove medioevo e barocco convivono con rara armonia. Vanta ben **17 chiese** e innumerevoli palazzi nobiliari, oltre a una biblioteca e un archivio molto forniti. La città ebbe un ruolo importante nella formazione del giovane **Giovanni Bosco**. Il **Duomo** (Chiesa di Santa Maria della Scala) è la più grande Chiesa della città, un misto fra gotico e romanico. Venne edificato nell’alto Medioevo e vi si possono ammirare bellissimi dipinti barocchi e fiamminghi e il Battistero dalla pianta ottagonale con le sue pareti affrescate.
 
 ![](3.jpg)
 
-L’edizione 2025 si distingue per la presenza di ospiti di rilievo nazionale, come i noti giornalisti gastronomici **Edoardo Raspelli e Paolo Massobrio**, che guideranno incontri e dibattiti sul tema del cibo di qualità e sull’importanza della** tradizione piemontese** nell’attuale panorama enogastronomico italiano.
+Promossa dal **Comune di Chieri** e organizzata da **SGP Grandi Eventi**, la **Fiera di San Martino di Chieri** presenta l'edizione 2025 che si distingue per la presenza di ospiti di rilievo nazionale, come i noti giornalisti gastronomici **Edoardo Raspelli e Paolo Massobrio**, che guideranno incontri e dibattiti sul tema del cibo di qualità e sull’importanza della **tradizione piemontese** nell’attuale panorama enogastronomico italiano.
 
 ![](1.jpg)
 
-Tra i momenti più attesi spicca la presentazione della** maxi installazione “Chieri”**, una grande scritta lunga 4,5 metri e alta 1,5 metri, realizzata interamente** in focaccia dolce artigianale**. L’opera, composta da oltre 30 focacce per un peso complessivo superiore ai 30 chilogrammi, sarà un omaggio alla tradizione panaria chierese e al lavoro dei maestri pasticceri locali, simbolo di convivialità, artigianalità e orgoglio comunitario.
+Tra i momenti più attesi spicca la presentazione della **maxi installazione “Chieri”**, una grande scritta lunga 4,5 metri e alta 1,5 metri, realizzata interamente **in focaccia dolce artigianale**. L’opera, composta da oltre 30 focacce per un peso complessivo superiore ai 30 chilogrammi, sarà un omaggio alla tradizione panaria chierese e al lavoro dei maestri pasticceri locali, simbolo di convivialità, artigianalità e orgoglio comunitario.
 
-Non mancherà il tributo al celebre **grissino Rubatà**, nella sua inconfondibile **versione chierese**, considerato uno dei simboli gastronomici del Piemonte nel mondo. Durante la Fiera, il pubblico potrà assistere a **dimostrazioni dal vivo**, partecipare a** degustazioni guidate** e incontrare **produttori locali** che racconteranno la storia, la lavorazione e le caratteristiche di questo prodotto unico per croccantezza e forma. Sarà un’occasione per celebrare la manualità e la cura artigianale che da secoli contraddistinguono i panificatori chieresi.
+Non mancherà il tributo al celebre **grissino Rubatà**, nella sua inconfondibile **versione chierese**, considerato uno dei simboli gastronomici del Piemonte nel mondo. Durante la Fiera, il pubblico potrà assistere a **dimostrazioni dal vivo**, partecipare a **degustazioni guidate** e incontrare **produttori locali** che racconteranno la storia, la lavorazione e le caratteristiche di questo prodotto unico per croccantezza e forma. Sarà un’occasione per celebrare la manualità e la cura artigianale che da secoli contraddistinguono i panificatori chieresi.
 
 ![](9.jpg)
 
