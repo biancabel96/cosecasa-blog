@@ -48,4 +48,4 @@ In definitiva, l’edizione 2025 rappresenta un vero **omaggio al patrimonio eno
 
 _Ph. Credits: Maria Rosa Sirotti_
 
-Si ringraziano: Comune di Chieri, SGP Grandi Eventi, Ristorante Enoteca Caffè della Stazione, Cantina sperimentale del centro Bonafous, Dolci & Dolci.  
+Si ringraziano: Comune di Chieri, SGP Grandi Eventi, Ristorante Enoteca Caffè della Stazione, Terre dei Santi Società Cooperativa Agricola - Cantina in Castelnuovo Don Bosco (AT) e Cantina in San Damiano d'Asti (AT)-, Dolci & Dolci.  
