@@ -1,7 +1,7 @@
 ---
 title: Calendari dell'Avvento 2025
 date: 2025-11-10T00:00:00.000Z
-tags: 'Natale,Regali'
+tags: 'Natale,Regali, Beauty e Profumi, Food & Beverage'
 ---
 
 # Calendari dell'Avvento 2025
