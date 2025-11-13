@@ -28,6 +28,13 @@ Negli ultimi anni i **Calendari dell’Avvento** sono diventati perfetti **compa
 
 ![](2.jpg)
 
+**Calendario Avvento 2025 – Caffarel** con praline assortite, è un viaggio nel gusto che combina tradizione, creatività e l’eccellenza del cioccolato torinese. Per vivere la magia del Natale con un tocco di dolcezza quotidiana:  ogni casella nasconde una pralina diversa, per un’esperienza di gusto sempre nuova.  
+
+**Calendario Avvento 2025 Premium – Caffarel** Un calendario dell'avvento straordinario dal design elegante e prezioso, che custodisce sette deliziose praline artigianali. Le sue 24 caselle pop up, giorno dopo giorno, vanno a comporre l'emozione del Natale Caffarel. Tra le novità, spicca la storica collaborazione con THUN, che celebra l’anniversario di Gianduia con una speciale sorpresa all’interno.
+
+
+![](12.jpg)
+
 **Festa dei Fiori – Bottega Verde** Calendario dell'Avvento 2025 che contiene 24 sorprese di bellezza all’interno della bellissima scatola in latta decorata: ogni giorno apri una delle scatoline e scopri un cosmetico selezionato tra i nostri prodotti bestseller e le ultime novità. I migliori trattamenti L’Erbolario in pratici formati per prendersi cura di viso, corpo e capelli. Puoi riutilizzare ogni scatolina di carta per creare deliziose decorazioni per il tuo albero di Natale passando il cordino nei fori presenti su ciascuna scatolina. Tre sorprese sono contenute in originali box in latta, da conservare insieme alla scatola grande per custodire bijoux o piccoli oggetti.
 
 ![](9.jpg)
@@ -40,4 +47,9 @@ Negli ultimi anni i **Calendari dell’Avvento** sono diventati perfetti **compa
 
 ![](16.jpg)
 
+**Calendario Avvento Orsetto  - Lindt** rende l’attesa della festa più dolce di tutto l’anno ancora più golosa. Ogni giorno scopri un nuovo cioccolatino, un ricco assortimento di dolci e golose praline e mini-orsetti, con una nuova esclusiva grafica.
+
+**Calendario Avvento Lindor – Lindt** rende l'attesa del Natale più dolce con una nuova varietà delle ricette tanto amate: Lindor Latte, Fondente Amabile 45%, Bianco, Caramello Salato, Extra Fondente 70% e Pistacchio. all’interno 24 caselle con tutta l’irresistibile scioglievolezza delle iconiche praline Lindor. 
+
+![](10.jpg)
 
