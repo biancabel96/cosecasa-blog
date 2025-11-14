@@ -1,6 +1,6 @@
 ---
 title: Global presenta Global Z
-date: 2025-10-14T00:00:00.000Z
+date: 2025-11-14T00:00:00.000Z
 tags: 'Tavola e Cucina, Design'
 ---
 
