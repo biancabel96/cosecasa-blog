@@ -1,10 +1,10 @@
 ---
-title: Il Panettone diventa Arte: Bar Brera e Pasticceria Martesana 
-date: 2025-11-15 
-tags: Food & Beverage, Cultura, Arte, Natale  
+title: Il Panettone diventa Arte - Bar Brera e Pasticceria Martesana
+date: 2025-11-15T00:00:00.000Z
+tags: 'Food & Beverage, Cultura, Arte, Natale'
 ---
 
-# Il Panettone diventa Arte: Bar Brera e Pasticceria Martesana 
+# Il Panettone diventa Arte - Bar Brera e Pasticceria Martesana 
 
 >**Bar Brera e Pasticceria Martesana** insieme con un tributo artistico alle **Olimpiadi Invernali**, per un Natale meneghino tra sogno, cultura e tradizione
 
