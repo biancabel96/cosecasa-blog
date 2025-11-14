@@ -25,7 +25,7 @@ E' lo stesso **Thomas de Monaco** a parlarmi del **primo capitolo** della Artist
 
 Un profumo immaginato per un fiore che non ha mai avuto una fragranza. Ispirato alla **Liane de Jade**, dal colore surreale e dal profumo silenzioso, questo profumo **porta presenza nell'assenza**. Reinventa l'idea dei fiori attraverso **agrumi luminosi**, morbide curve fruttate e un **accordo verde vivido** che brilla come la vite stessa. Il sandalo cremoso e i muschi morbidi gli conferiscono un'intimità simile alla pelle, trasformando l'impossibile in qualcosa di tenero, sensuale e reale. 
 
-![](3.jpg)
+![](2.jpg)
 
 **David Chieze è un sognatore, un esploratore, un creatore** di mondi invisibili. I suoi esperimenti vanno alla ricerca di qualcosa che andasse oltre il conosciuto, qualcosa di mai sentito prima. Jade Amour è il risultato: una fragranza così intrecciata, così sconosciuta, che **sembra di scoprire una nuova specie**. 
 
