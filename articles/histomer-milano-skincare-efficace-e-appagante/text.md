@@ -14,7 +14,7 @@ Lanciato da **Valetudo Dermocosmetic HUB**, realtà italiana con oltre 40 anni d
 
 Fondata nel 1982 a Bergamo, Valetudo è un **hub dermocosmetico** specializzato nella produzione per conto terzi, con un forte focus sulla qualità, l’innovazione e la sostenibilità. Grazie a questa expertise,  oggi  il  Gruppo compie  un passo strategico ampliando il proprio portfolio con un **brand proprietario**: Histomer Milano.
 
-![](7.jpg)
+![](3.jpg)
 
 Pur posizionandosi come un brand beauty, eredita l’**approccio scientifico** alla formulazione di Valetudo,  producendo prodotti accompagnati da **test di eﬃcacia** condotti in laboratori esterni certificati. Questo garantisce una **skincare avanzata**, supportata da evidenze scientifiche, che si rivolge non solo al benessere estetico, ma anche alla salute della pelle.
 
