@@ -4,7 +4,7 @@ date: 2025-11-16T00:00:00.000Z
 tags: 'Beauty e Profumi,'
 ---
 
-# EThe Artist Collection - Thomas De Monaco Parfums
+# EThe Artist Collection - Thomas De Monaco 
 
 >Thomas De Monaco ha presentato la **nuova collezione** di fragranze del marchio nato cinque anni fa, **The Artist Collection**, ispirata dalla sua ricerca artistica
 
