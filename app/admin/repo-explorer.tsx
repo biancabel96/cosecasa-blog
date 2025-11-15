@@ -3,7 +3,8 @@ import Link from "next/link"
 import { FileText, Folder, Image } from "lucide-react"
 import { unstable_noStore as noStore } from "next/cache"
 
-import { listDirectoryContents, getFileContent, getRawFileUrl, type RepoContentEntry } from "@/lib/github-api"
+import { getRawFileUrl, type RepoContentEntry } from "@/lib/github-api"
+import { getCachedDirectoryContents, getCachedFileContent } from "@/lib/github-cache"
 
 import { ArticleDeleteToggle } from "./article-delete-toggle"
 import { ArticleImageDeleteToggle } from "./article-image-delete-toggle"
@@ -29,7 +30,7 @@ export async function RepoExplorer({ prefix }: RepoExplorerProps) {
 
   let items: RepoContentEntry[]
   try {
-    items = await listDirectoryContents(path)
+    items = await getCachedDirectoryContents(path)
   } catch (error) {
     console.error("Failed to load repository contents", error)
     return (
@@ -64,7 +65,7 @@ export async function RepoExplorer({ prefix }: RepoExplorerProps) {
 
   if (articleSlug) {
     try {
-      articleMarkdown = await getFileContent(`articles/${articleSlug}/text.md`)
+      articleMarkdown = await getCachedFileContent(`articles/${articleSlug}/text.md`)
       articleDraft = extractDraftFlag(articleMarkdown)
       const extractedTitle = extractFrontmatterTitle(articleMarkdown)
       articleTitle = extractedTitle ?? articleSlug

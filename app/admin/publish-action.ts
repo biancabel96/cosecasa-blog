@@ -3,7 +3,7 @@
 import { revalidatePath } from "next/cache"
 import { currentUser } from "@clerk/nextjs/server"
 
-import { clearArticlesCache } from "@/lib/markdown"
+import { refreshArticlesCache, removeArticlesFromCache } from "@/lib/markdown"
 
 import {
   createBlob,
@@ -14,6 +14,7 @@ import {
   updateMain,
   type GitTreeEntry,
 } from "@/lib/github-api"
+import { clearGithubContentCache } from "@/lib/github-cache"
 
 interface PublishImage {
   name: string
@@ -82,7 +83,6 @@ export async function publishChangesAction(
 
     try {
       await updateMain(commitSha)
-      clearArticlesCache()
     } catch (error: unknown) {
       if (isOctokitConflict(error)) {
         return {
@@ -93,8 +93,23 @@ export async function publishChangesAction(
       throw error
     }
 
-    revalidatePath("/admin", "page")
-    revalidatePath("/", "layout")
+    const slugsToRefresh = new Set<string>()
+    normalizedUploads.forEach((upload) => slugsToRefresh.add(upload.slug))
+    normalizedImageDeletes.forEach((entry) => slugsToRefresh.add(entry.slug))
+    normalizedDeletes.forEach((slug) => slugsToRefresh.delete(slug))
+
+    const slugsToDelete = normalizedDeletes
+
+    await refreshArticlesCache(Array.from(slugsToRefresh))
+    removeArticlesFromCache(slugsToDelete)
+
+    clearGithubContentCache()
+
+    const pathsToRevalidate = new Set<string>(["/admin", "/"])
+    slugsToRefresh.forEach((slug) => pathsToRevalidate.add(`/${slug}`))
+    slugsToDelete.forEach((slug) => pathsToRevalidate.add(`/${slug}`))
+
+    await Promise.all(Array.from(pathsToRevalidate).map(async (path) => revalidatePath(path)))
 
     return { success: true, commitSha }
   } catch (error: unknown) {

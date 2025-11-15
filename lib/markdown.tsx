@@ -1,6 +1,4 @@
-import { cache } from "react"
-
-import { fetchArticlesFromGitHub, extractUniqueTags, type ArticleRecord } from "./articles-service"
+import { fetchArticlesFromGitHub, fetchArticleFromGitHub, extractUniqueTags, type ArticleRecord } from "./articles-service"
 
 export interface PostMetadata {
   title: string
@@ -20,15 +18,72 @@ export interface Post {
   content: string
 }
 
-// Cache for build-time article fetching
-const getCachedArticles = cache(async (): Promise<ArticleRecord[]> => {
-  return await fetchArticlesFromGitHub()
-})
+type ArticleCacheState = {
+  initialized: boolean
+  articles: Map<string, ArticleRecord>
+}
 
-// Allows server actions to flush the memoized GitHub fetch when new content lands
+const articleCacheState: ArticleCacheState = {
+  initialized: false,
+  articles: new Map(),
+}
+
+let loadPromise: Promise<void> | null = null
+
+async function ensureArticlesLoaded(): Promise<void> {
+  if (articleCacheState.initialized) {
+    return
+  }
+
+  if (!loadPromise) {
+    loadPromise = (async () => {
+      const articles = await fetchArticlesFromGitHub()
+      articleCacheState.articles = new Map(articles.map((article) => [article.slug, article]))
+      articleCacheState.initialized = true
+    })().finally(() => {
+      loadPromise = null
+    })
+  }
+
+  await loadPromise
+}
+
+function getArticlesArray(includeDrafts?: boolean): ArticleRecord[] {
+  const articles = Array.from(articleCacheState.articles.values())
+  const filtered = includeDrafts ? articles : articles.filter((article) => !article.draft)
+  return filtered.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
+}
+
 export function clearArticlesCache(): void {
-  const cached = getCachedArticles as typeof getCachedArticles & { clear?: () => void }
-  cached.clear?.()
+  articleCacheState.articles.clear()
+  articleCacheState.initialized = false
+}
+
+export async function refreshArticlesCache(slugs: string[]): Promise<void> {
+  if (!slugs.length) {
+    return
+  }
+
+  await ensureArticlesLoaded()
+
+  const uniqueSlugs = Array.from(new Set(slugs))
+  const refreshed = await Promise.all(uniqueSlugs.map((slug) => fetchArticleFromGitHub(slug)))
+
+  uniqueSlugs.forEach((slug, index) => {
+    const article = refreshed[index]
+    if (article) {
+      articleCacheState.articles.set(slug, article)
+    } else {
+      articleCacheState.articles.delete(slug)
+    }
+  })
+}
+
+export function removeArticlesFromCache(slugs: string[]): void {
+  const uniqueSlugs = new Set(slugs)
+  uniqueSlugs.forEach((slug) => {
+    articleCacheState.articles.delete(slug)
+  })
 }
 
 /**
@@ -55,8 +110,8 @@ function mapArticleToPost(article: ArticleRecord): Post {
 }
 
 export async function getPostBySlug(slug: string): Promise<Post | null> {
-  const articles = await getCachedArticles()
-  const article = articles.find((a) => a.slug === slug)
+  await ensureArticlesLoaded()
+  const article = articleCacheState.articles.get(slug)
 
   if (!article) {
     return null
@@ -70,9 +125,8 @@ interface GetAllPostsOptions {
 }
 
 export async function getAllPosts(options: GetAllPostsOptions = {}): Promise<Post[]> {
-  const articles = await getCachedArticles()
-  const filtered = options.includeDrafts ? articles : articles.filter((article) => !article.draft)
-  return filtered.map(mapArticleToPost)
+  await ensureArticlesLoaded()
+  return getArticlesArray(options.includeDrafts).map(mapArticleToPost)
 }
 
 export async function getFeaturedPosts(limit = 6): Promise<Post[]> {
@@ -102,9 +156,9 @@ export async function getRelatedPosts(currentPost: Post, limit = 3): Promise<Pos
 }
 
 export async function getAllTags(): Promise<string[]> {
-  const articles = await getCachedArticles()
-  const published = articles.filter((article) => !article.draft)
-  return extractUniqueTags(published)
+  await ensureArticlesLoaded()
+  const articles = getArticlesArray(false)
+  return extractUniqueTags(articles)
 }
 
 export async function getPostsByTag(tag: string): Promise<Post[]> {

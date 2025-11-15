@@ -15,49 +15,46 @@ export interface ArticleRecord {
 const IMAGE_PATTERN = /\.(png|jpe?g|webp|gif|svg)$/i
 
 export async function fetchArticlesFromGitHub(): Promise<ArticleRecord[]> {
+  const slugs = await fetchArticleSlugsFromGitHub()
+  const articles = await Promise.all(slugs.map((slug) => fetchArticleFromGitHub(slug)))
+  const filtered = articles.filter((article): article is ArticleRecord => Boolean(article))
+  filtered.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
+  return filtered
+}
+
+export async function fetchArticleSlugsFromGitHub(): Promise<string[]> {
   const rootEntries = await listDirectoryContents("articles")
-  const articleDirs = rootEntries.filter((entry) => entry.type === "dir")
+  return rootEntries.filter((entry) => entry.type === "dir").map((entry) => entry.name)
+}
 
-  const articles: ArticleRecord[] = []
-
-  for (const dir of articleDirs) {
-    const slug = dir.name
-
-    try {
-      const markdownPath = `articles/${slug}/text.md`
-      const markdownText = await getFileContent(markdownPath)
-      if (!markdownText) {
-        continue
-      }
-
-      const parsed = await parseMarkdown(markdownText, slug)
-
-      // Look for banner image (banner.png, banner.jpg, banner.webp, etc.)
-      const articleFiles = await listDirectoryContents(`articles/${slug}`)
-      const bannerImage = articleFiles.find(
-        (entry) => entry.type === "file" && /^banner\.(png|jpe?g|webp|gif|svg)$/i.test(entry.name)
-      )
-
-      const imageUrl = bannerImage ? getRawFileUrl(bannerImage.path) : undefined
-
-      articles.push({
-        slug,
-        title: parsed.frontmatter.title,
-        date: parsed.frontmatter.date,
-        description: parsed.frontmatter.description,
-        tags: parsed.frontmatter.tags,
-        htmlContent: parsed.htmlContent,
-        imageUrl,
-        draft: parsed.frontmatter.draft,
-      })
-    } catch (error) {
-      console.error(`Unable to load article ${dir.name}`, error)
+export async function fetchArticleFromGitHub(slug: string): Promise<ArticleRecord | null> {
+  try {
+    const markdownPath = `articles/${slug}/text.md`
+    const markdownText = await getFileContent(markdownPath)
+    if (!markdownText) {
+      return null
     }
+
+    const parsed = await parseMarkdown(markdownText, slug)
+
+    const articleFiles = await listDirectoryContents(`articles/${slug}`)
+    const bannerImage = articleFiles.find((entry) => entry.type === "file" && IMAGE_PATTERN.test(entry.name))
+    const imageUrl = bannerImage ? getRawFileUrl(bannerImage.path) : undefined
+
+    return {
+      slug,
+      title: parsed.frontmatter.title,
+      date: parsed.frontmatter.date,
+      description: parsed.frontmatter.description,
+      tags: parsed.frontmatter.tags,
+      htmlContent: parsed.htmlContent,
+      imageUrl,
+      draft: parsed.frontmatter.draft,
+    }
+  } catch (error) {
+    console.error(`Unable to load article ${slug}`, error)
+    return null
   }
-
-  articles.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime())
-
-  return articles
 }
 
 export function extractUniqueTags(articles: ArticleRecord[]): string[] {

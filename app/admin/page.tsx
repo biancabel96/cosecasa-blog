@@ -39,8 +39,6 @@ export default function AdminDashboardPage({ searchParams }: AdminDashboardPageP
 
   breadcrumbs.push({ label: "Articoli", href: "/admin", active: breadcrumbSegments.length === 1 })
 
-  const showClearCacheButton = process.env.SHOW_CLEAR_CACHE_BUTTON === "true"
-
   if (breadcrumbSegments.length > 1) {
     let cumulative = ""
     breadcrumbSegments.slice(1).forEach((segment, index) => {
@@ -65,7 +63,6 @@ export default function AdminDashboardPage({ searchParams }: AdminDashboardPageP
               </Title>
               <div className="flex flex-wrap items-center gap-3">
                 <PublishButton />
-                {showClearCacheButton ? <ClearCacheButton /> : null}
                 <Link
                   href="/"
                   className="inline-flex items-center gap-2 rounded-full border border-border bg-background px-5 py-3 text-sm font-semibold text-foreground shadow-sm transition hover:bg-muted"
