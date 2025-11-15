@@ -2,7 +2,6 @@
 title: Histomer Milano - Skincare efficace e appagante
 date: 2025-11-12T00:00:00.000Z
 tags: Beauty e Profumi
-draft: true
 ---
 
 # Histomer Milano - Skincare efficace e appagante
@@ -15,14 +14,16 @@ Lanciato da **Valetudo Dermocosmetic HUB**, realtà italiana con oltre 40 anni d
 
 Fondata nel 1982 a Bergamo, Valetudo è un **hub dermocosmetico** specializzato nella produzione per conto terzi, con un forte focus sulla qualità, l’innovazione e la sostenibilità. Grazie a questa expertise,  oggi  il  Gruppo compie  un passo strategico ampliando il proprio portfolio con un **brand proprietario**: Histomer Milano.
 
+![](7.jpg)
+
 Pur posizionandosi come un brand beauty, eredita l’**approccio scientifico** alla formulazione di Valetudo,  producendo prodotti accompagnati da **test di eﬃcacia** condotti in laboratori esterni certificati. Questo garantisce una **skincare avanzata**, supportata da evidenze scientifiche, che si rivolge non solo al benessere estetico, ma anche alla salute della pelle.
 
-“_In Italia, il settore beauty è principalmente caratterizzato da una netta separazione tra aziende manifatturiere che operano per conto di terzi e brand rivolti al consumatore finale che non hanno alcuna capacità produttiva. Sono molto poche le realtà che hanno una filiera completa e operano simultaneamente sia per conto terzi, sia attraverso marchi proprietari_”, dichiara **Marco Cassina (Director)**. “_Con questa operazione, non solo consolidiamo il nostro ruolo di player nella produzione di formulazioni innovative, ma rompiamo lo schema, ampliando le prospettive e dando vita ad un marchio accessibile  che evolve in un nuovo contesto di mercato_”.
-
- Alla base di tale innovazione, troviamo le **SensActional Formulas** che coniugano sensorialità e performance: altamente efficaci, semplicemente pure e incredibilmente appaganti. Quest’esperienza si rivela appieno nell’incontro con **texture innovative e curiose**, leggermente colorate in base alla naturale e **alta concentrazione** dell’ingrediente principale, e nell’efficacia dermocosmetica delle sue formule. 
-
  
+Alla base di tale innovazione, troviamo le **SensActional Formulas** che coniugano sensorialità e performance: altamente efficaci, semplicemente pure e incredibilmente appaganti. Quest’esperienza si rivela appieno nell’incontro con **texture innovative e curiose**, leggermente colorate in base alla naturale e **alta concentrazione** dell’ingrediente principale, e nell’efficacia dermocosmetica delle sue formule. 
+
 Per i vari tipi di pelli ed esigenze ci sono **6 linee dedicate**, ciascuna riconoscibile dalla **colorazione del principio attivo**:
+
+![](1.jpg)
 
 **Acido Ialuronico** – azzurro – Rigenerante e Rivitalizzante
 
@@ -30,15 +31,13 @@ Per i vari tipi di pelli ed esigenze ci sono **6 linee dedicate**, ciascuna rico
 
 **Luteina** – bianco – Protezione Solare
 
-![](1.jpg)
+![](2.jpg)
 
 **Niacina B3** – verde – Purificante e Schiarente
 
 **Peptidi** – viola – Ristrutturanti e Ridensificanti
 
 **Vitamina C** – giallo – Illuminante e Perfezionante
-
-![](2.jpg)
 
 Nella formula la Vitamina C è combinata con l'**Astaxantina**, estratta dall’alga Haematococcus pluvialis che non è solo il segreto del colore rosso-arancio del prodotto, ma anche un **super antiossidante**, fino a 6000 volte più potente della vitamina C nel combattere i radicali liberi.
 Tutte le linee si dividono in **sieri, creme, detergenti  e maschere**. 
