@@ -39,6 +39,12 @@ Negli ultimi anni i **Calendari dell’Avvento** sono diventati perfetti **compa
 
 ![](9.jpg)
 
+**Calendario dell’Avvento Galatine - Sperlari** l’iconico gusto Galatine si trasforma in golosi cioccolatini dell’avvento. All’interno 24 deliziosi cioccolatini al gusto inconfondibile di Galatine prodotte con latte in polvere di origine italiana e quel gusto intramontabile che da oltre 60 anni le rende le preferite di grandi e piccini. Per accompagnare l’attesa del Natale con tanta golosità.
+
+**Calendario Avvento Harry Potter – Sperlari** una versione esclusiva per rendere unico ogni giorno: Il calendario di Harry Potter, per chi sogna un dicembre magico tra incantesimi e dolcezze. Un regalo unico per i fan: ogni giorno un cioccolatino a forma di uno dei personaggi. 
+
+![](11.jpg)
+
 **Il Gusto dell'attesa - Calendario dell'Avvento** di tè e tisane – Bottega Verde Questo calendario dell'Avvento contiene 24 caselle con all'interno 1 filtro per un infuso al giorno. Sono 12 tipi di tisane differenti (2 bustine per gusto) da provare e da scoprire ogni giorno fino a Natale. Un regalo molto speciale, ricco di profumi, sapori e pensieri positivi. Dal Rooibos al Mirtillo, dal Melogrnao al Choco Arancio e, per finire, la Tisana di Natale.
 
 ![](7.jpg)
