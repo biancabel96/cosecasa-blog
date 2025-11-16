@@ -20,24 +20,49 @@ export interface ParsedMarkdown {
   rawContent: string
 }
 
+interface ImagePathResolverOptions {
+  slug: string
+  filename: string
+}
+
+export type ImagePathResolver = (options: ImagePathResolverOptions) => string
+
+export interface ParseMarkdownOptions {
+  imagePathResolver?: ImagePathResolver
+}
+
+const defaultImagePathResolver: ImagePathResolver = ({ slug, filename }) => {
+  return ghRawUrl(slug, filename)
+}
+
 /**
  * Parse a Markdown file with YAML frontmatter
  * Extracts metadata and converts Markdown to HTML with syntax highlighting
  */
-export async function parseMarkdown(markdownText: string, slug: string): Promise<ParsedMarkdown> {
+export async function parseMarkdown(
+  markdownText: string,
+  slug: string,
+  options?: ParseMarkdownOptions,
+): Promise<ParsedMarkdown> {
   // Parse frontmatter using gray-matter
   const { data, content } = matter(markdownText)
 
   // Extract and parse tags from comma-separated string
   const tagsRaw = data.tags || ""
-  const tags = typeof tagsRaw === "string"
-    ? tagsRaw.split(",").map((tag) => tag.trim()).filter(Boolean)
-    : Array.isArray(tagsRaw)
-    ? tagsRaw
-    : []
+  const tags =
+    typeof tagsRaw === "string"
+      ? tagsRaw
+          .split(",")
+          .map((tag) => tag.trim())
+          .filter(Boolean)
+      : Array.isArray(tagsRaw)
+        ? tagsRaw
+        : []
+
+  const imagePathResolver = options?.imagePathResolver ?? defaultImagePathResolver
 
   // Replace relative image paths with full GitHub raw URLs
-  const contentWithResolvedImages = resolveImagePaths(content, slug)
+  const contentWithResolvedImages = resolveImagePaths(content, slug, imagePathResolver)
 
   const processedContent = await unified()
     .use(remarkParse)
@@ -87,13 +112,13 @@ function resolveDraftFlag(value: unknown): boolean {
  * Replace relative image paths with full GitHub raw URLs
  * Converts: ![alt](/image.png) -> ![alt](https://raw.githubusercontent.com/.../articles/slug/image.png)
  */
-function resolveImagePaths(content: string, slug: string): string {
+function resolveImagePaths(content: string, slug: string, resolver: ImagePathResolver): string {
   const imageRegex = /!\[([^\]]*)\]\(([^)]+)\)/g
 
   return content.replace(imageRegex, (match, alt, path) => {
     if (isRelativePath(path)) {
       const normalized = normalizeRelativePath(path)
-      const imageUrl = ghRawUrl(slug, normalized)
+      const imageUrl = resolver({ slug, filename: normalized })
       return `![${alt}](${imageUrl})`
     }
 

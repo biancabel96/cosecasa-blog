@@ -1,9 +1,6 @@
 "use server"
 
-import { revalidatePath } from "next/cache"
 import { currentUser } from "@clerk/nextjs/server"
-
-import { refreshArticlesCache, removeArticlesFromCache } from "@/lib/markdown"
 
 import {
   createBlob,
@@ -93,23 +90,7 @@ export async function publishChangesAction(
       throw error
     }
 
-    const slugsToRefresh = new Set<string>()
-    normalizedUploads.forEach((upload) => slugsToRefresh.add(upload.slug))
-    normalizedImageDeletes.forEach((entry) => slugsToRefresh.add(entry.slug))
-    normalizedDeletes.forEach((slug) => slugsToRefresh.delete(slug))
-
-    const slugsToDelete = normalizedDeletes
-
-    await refreshArticlesCache(Array.from(slugsToRefresh))
-    removeArticlesFromCache(slugsToDelete)
-
     clearGithubContentCache()
-
-    const pathsToRevalidate = new Set<string>(["/admin", "/"])
-    slugsToRefresh.forEach((slug) => pathsToRevalidate.add(`/${slug}`))
-    slugsToDelete.forEach((slug) => pathsToRevalidate.add(`/${slug}`))
-
-    await Promise.all(Array.from(pathsToRevalidate).map(async (path) => revalidatePath(path)))
 
     return { success: true, commitSha }
   } catch (error: unknown) {

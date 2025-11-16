@@ -1,6 +1,5 @@
 import type React from "react"
 import type { Metadata } from "next"
-import { ClerkProvider } from "@clerk/nextjs"
 import { GeistMono } from "geist/font/mono"
 import { Analytics } from "@vercel/analytics/next"
 import { Suspense } from "react"
@@ -18,20 +17,12 @@ export default function RootLayout({
 }: Readonly<{
   children: React.ReactNode
 }>) {
-  const publishableKey = process.env.NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY
-
-  if (!publishableKey) {
-    throw new Error("NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY is not set")
-  }
-
   return (
-    <ClerkProvider publishableKey={publishableKey}>
-      <html lang="it">
-        <body className={`font-sans ${GeistMono.variable}`}>
-          <Suspense fallback={null}>{children}</Suspense>
-          <Analytics />
-        </body>
-      </html>
-    </ClerkProvider>
+    <html lang="it">
+      <body className={`font-sans ${GeistMono.variable}`}>
+        <Suspense fallback={null}>{children}</Suspense>
+        <Analytics />
+      </body>
+    </html>
   )
 }

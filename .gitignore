@@ -31,3 +31,7 @@ next-env.d.ts
 reference/
 # clerk configuration (can include secrets)
 /.clerk/
+
+# generated content artifacts
+/generated/
+/public/articles/

@@ -1,8 +1,5 @@
 "use server"
 
-import { revalidatePath } from "next/cache"
-
-import { clearArticlesCache } from "@/lib/markdown"
 import { clearGithubContentCache } from "@/lib/github-cache"
 
 interface ClearCacheResult {
@@ -12,9 +9,7 @@ interface ClearCacheResult {
 
 export async function clearArticlesCacheAction(): Promise<ClearCacheResult> {
   try {
-    clearArticlesCache()
     clearGithubContentCache()
-    await Promise.all([revalidatePath("/admin"), revalidatePath("/")])
 
     return { success: true }
   } catch (error: unknown) {
