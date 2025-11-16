@@ -2,7 +2,6 @@
 title: The Artist Collection - Thomas De Monaco
 date: 2025-11-16T00:00:00.000Z
 tags: 'Beauty e Profumi,'
-draft: true
 ---
 
 # EThe Artist Collection - Thomas De Monaco 
