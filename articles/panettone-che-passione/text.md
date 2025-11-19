@@ -2,7 +2,6 @@
 title: Panettone che passione
 date: 2025-11-20
 tags: Natale, Food & Beverage, Regali
-draft: true
 ---
 
 # Panettone che passione
