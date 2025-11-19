@@ -3,7 +3,6 @@ title: Panettone che passione
 date: 2025-11-20
 tags: Natale, Food & Beverage, Regali
 ---
-
 # Panettone che passione
 
 >Non è mai troppo presto per pensare al **panettone o a un dolce alternativo** per concludere in bellezza un pasto natalizio perché, più sono buoni, prima finiscono!
