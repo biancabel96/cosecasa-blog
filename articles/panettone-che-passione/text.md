@@ -3,6 +3,7 @@ title: Panettone che passione
 date: 2025-11-20
 tags: Natale, Food & Beverage, Regali
 ---
+
 # Panettone che passione
 
 >Non è mai troppo presto per pensare al **panettone o a un dolce alternativo** per concludere in bellezza un pasto natalizio perché, più sono buoni, prima finiscono!
@@ -43,6 +44,13 @@ tags: Natale, Food & Beverage, Regali
 **Panettone Chinotto di Savona, basilico e cioccolato bianco ligure - Jacopo Chieppa** lo chef e lievitista presenta una speciale Limited Edition 2025 è di nuovo un omaggio alla Liguria e ai suoi sapori: un panettone con Chinotto di Savona e basilico, due ingredienti tipici della cucina ligure in perfetto equilibrio tra dolcezza e aromaticità, per un Natale sontuoso e che profuma di mare.
 
 ![](12.jpg)
+
+**Panettone classico - Horto** il nuovo panettone realizzato in edizione limitata, frutto di una collaborazione tra maestri pasticceri e il laboratorio artigianale Oriens, sotto la direzione creativa di Viviana Volpicella. Nato da un tempo lento e paziente, come la lievitazione naturale che lo rende soffice e fragrante, questo panettone è arricchito da frutta candita e uvetta sultanina che ne esaltano profumi e aromi, celebrando i sapori autentici della tradizione. A custodirlo, una borsa in tessuti naturali, ricamati a mano in edizione limitata di 350 pezzi numerati realizzata da Oriens, una piccola bottega artigiana che, come Horto, crede nel valore del tempo, del recupero e della cura.
+
+
+**Roccocò - Masardona** storica eccellenza della pizza fritta e custode della tradizione gastronomica partenopea, presenta per il Natale 2025 i suoi celebri biscotti artigianali in una confezione esclusiva. Impastati a mano secondo un’antica ricetta di famiglia tramandata da quattro generazioni, con farina, miele, zucchero, mandorle tostate, canditi e l’immancabile pisto, ovvero quel composto di cannella, noce moscata, chiodi di garofano, anice stellato, pepe macinato e coriandolo tipico della tradizione dolciaria partenopea, rappresentano i biscotti tipici delle feste natalizie a Napoli. A forma di ciambella schiacciata, duri al morso, ma dal cuore aromatico inconfondibile possono essere gustati al naturale o inzuppati nel Marsala o nel liquore Strega.
+
+![](6.jpg)
 
 **Panettone Agrumi Siciliani - Caffè di Sicilia 1926 - Coin** la nuova collaborazione tra Alessandro Enrique e il marchio siciliano di caffè e pasticceria. Insieme presentano una collezione limitata di dolci natalizi che unisce moda, gusto e tradizione, con il come protagonista assoluto e una selezione di dolci siciliani rivisitati in versione gourmet. Soffice e fragrante, il panettone artigianale è farcito con una delicata crema agli agrumi, ricoperto da una glassa di cioccolato bianco e impreziosito da frutta candita. Il panettone è racchiuso in una cappelliera illustrata con l’iconica stampa di Alessandro Enriquez “Pasticceria”, in cui è raffigurata la nonna dello stilista all’interno di una classica pasticceria siciliana di una volta decorata con motivi liberty palermitani.
 
