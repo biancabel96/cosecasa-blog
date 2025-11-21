@@ -2,8 +2,8 @@
 title: Regali scelti con cura
 date: 2025-11-23
 tags: Natale, Regali, Accessori
-draft: true
 ---
+
 # Regali scelti con cura
 
 >Ogni anno a Natale si pone sempre lo stesso problema, ovvero cosa regalare… L’importante è **un dono pensato con cura** per chi è destinato a riceverlo
@@ -29,7 +29,8 @@ draft: true
 
 **Cromatismi - Fazzini** pensa anche agli ambienti del benessere con le spugne della collezione. Proposte nelle tonalità calde dei rossi, dell’arancio e delle terre oppure in quelle fredde dei verdi, con accenni bronzo, giocano con le geometrie. L’effetto compatto e vellutato è dato dalla lavorazione jacquard. 
 
-![](14.jpg)
+![](4.jpg)
+
 **Revive - Russell Hobbs®** una soluzione piccola ma geniale, che strizza l’occhio alla sostenibilità. Il levapelucchi Revive è in grado di riportare i tessuti a nuova vita ed è dotato di carica USB-C (non necessita di batterie) ed è facile da usare e da pulire. Con un design leggero e compatto, vanta una autonomia di 90 minuti e una ricarica completa di tre ore. Il display a LED indica l’autonomia residua e il blocco viaggio.
 
 
@@ -73,6 +74,8 @@ draft: true
 ![](10.jpg)
 
 **Videocamere Dom-e - Beghelli** un occhio smart per la tranquillità della famiglia (pet inclusi). Gestibili a distanza in qualsiasi momento tramite smartphone con l’app Dom-e gratuita, sono progettate per sorvegliare in tempo reale quello che accade dentro le mura domestiche. Grazie alla risoluzione Full HD catturano ogni dettaglio, mentre la visione notturna permette di "vedere" al buio fino a 10 metri di distanza, garantendo una protezione continua anche nelle ore meno illuminate. Dotate di sensore di movimento, sirena interna, vivavoce e rilevamento animali (ideali per controllare a distanza anche gli amici a quattro zampe), funzionano con gli assistenti vocali Alexa e Google Home. Inoltre, la scheda di memoria MicroSD a colori può essere integrata con la modalità di registrazione continua su cloud (opzionale).  
+
+**Encens de Fumigation Ceremonia - Chapel Factory** una composizione di 25 resine e piante fumiganti i cui profumi riempiono l'atmosfera. Brucia su un bruciatore di profumi e riempie l’ambiente. Vieni a viaggiare indietro nel tempo con questo profumo magico unico nel suo genere.
 
 ![](2.jpg)
 
