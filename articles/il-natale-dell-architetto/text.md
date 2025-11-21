@@ -2,8 +2,8 @@
 title: Il Natale dell’Architetto
 date: 2025-11-22
 tags: Natale, Design, Regali, Arredo e complementi
-draft: true
 ---
+
 # Il Natale dell’Architetto
 
 >Indecisi sui regali? Tante proposte di **complementi e arredi speciali** per una casa sempre attuale
@@ -38,6 +38,13 @@ draft: true
 **Levante Pure - Pastorelli** una nuova collezione di superfici diventa una vera e propria esperienza visiva e tattile. Le superfici, in gres porcellanato evoluto, assumono le sembianze di paesaggi vivi che si lasciano attraversare dalla luce e dall’aria, portando negli spazi un dinamismo misurato ed elegante. Dietro la collezione di pavimenti e rivestimenti Levante c’è la rivoluzionaria tecnologia 3D Studio, che Pastorelli, dopo anni di perfezionamento e investimenti ha sviluppato internamente con una tridimensionalità frutto di una perfetta coincidenza tra grafica e struttura. Antiscivollo, è ideale per applicazioni sia residenziali che in aree ad alto traffico.
 
 ![](13.jpg)
+
+**Lunaris - Alice** uno specchio dalla forma ispirata – come la stessa collezione – alle fasi lunari: la cornice in acciaio inossidabile verniciato a polveri con finitura nero matt o bianco matt e il profilo curvo e continuo disegnano un oggetto luminoso e contemporaneo. È corredato da due “satelliti” di 20 cm di diametro, che scorrono lungo la mezzaluna superiore e inferiore dello specchio e possono avvicinarsi tra loro. Da un lato, un’illuminazione a luce bianca naturale 4000 K, dall’altro, uno specchio concavo con effetto zoom, ideale per le fasi di trucco o rasatura.
+
+
+**Roma- Kico** la serie Roma comprende tavolini e servomuti. Questi ultimi sono accomunati da uno specifico particolare: la base tondeggiante che caratterizza le due collezioni: Roma e Roma Antica. Nel primo caso la base è costituita da un cilindro liscio e solido, mentre nel secondo la base rievoca il caratteristico fusto romano segnato da profonde scanalature in pietra. Si tratta di volumi scultorei ed accessori studiati per semplificare i piccoli gesti della quotidianità.
+
+![](20.jpg)
 
 **Haik - Pianca** si presenta come un’armoniosa integrazione di forme geometriche, capace di riflettere e giocare con la luce delle sue bellissime finiture metalliche. L’artigianalità del processo di realizzazione rende ogni pezzo unico. La forza innovativa di questo oggetto per costruzione, forma, materiale e finiture, lo rende un complemento d’arredo fortemente caratterizzante, adatto ad ogni ambiente dentro e fuori casa. Eclettico nella sua interpretazione può essere usato come comodino, tavolino, sgabello.
 
