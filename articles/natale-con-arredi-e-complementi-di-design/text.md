@@ -2,7 +2,6 @@
 title: Natale con arredi e complementi di design
 date: 2025-11-21
 tags: Natale, Regali, Arredo e complementi, Design
-draft: true
 ---
 # Natale con arredi e complementi di design
 
