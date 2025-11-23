@@ -2,7 +2,6 @@
 title: Il dolce Natale di Adolfo Stefanelli
 date: 2025-11-23
 tags: Food & Beverage, Natale,
-draft: true
 ---
 # Il dolce Natale di Adolfo Stefanelli 
 
