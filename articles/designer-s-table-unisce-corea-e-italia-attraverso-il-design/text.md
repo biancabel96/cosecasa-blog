@@ -2,7 +2,6 @@
 title: Designer’s Table unisce Corea e Italia attraverso il design
 date: 2025-11-23
 tags: Design, Cultura,
-draft: true
 ---
 
 # Designer’s Table unisce Corea e Italia attraverso il design
