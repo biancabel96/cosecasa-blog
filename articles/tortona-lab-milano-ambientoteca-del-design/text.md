@@ -14,7 +14,7 @@ La filiera del design e dell’edilizia richiede oggi partner capaci di offrire 
 
 ![](1.jpg)
 
-Lo spazio espositivo ricrea diversi ambienti, in cui compaiono e si rapportano i vari prodotti: una vera e propria **“ambientoteca”** dove tutto e tutti lavorano sinergicamente. In Tortona Lab le aziende non competono: collaborano. Il laboratorio si pone come unico interlocutore in un solo luogo, in grado di supportare e predisporre diverse competenze al servizio del progetto.
+Lo spazio espositivo ricrea diversi ambienti, in cui compaiono e si rapportano i vari prodotti: una vera e propria **ambientoteca** dove tutto e tutti lavorano sinergicamente. In Tortona Lab le aziende non competono: collaborano. Il laboratorio si pone come unico interlocutore in un solo luogo, in grado di supportare e predisporre diverse competenze al servizio del progetto.
 Durante l’evento di presentazione, abbiamo ascoltato gli interventi di: 
 
 •	**Ingrid Tanini**, Titolare dello spazio Tortona Lab e del brand **Ex.T**, azienda di arredobagno contemporaneo
