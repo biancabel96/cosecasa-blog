@@ -2,8 +2,8 @@
 title: Tortona Lab Milano “ambientoteca” del design
 date: 2025-11-23
 tags: Design, Arredo e complementi, Bagno,
+draft: true
 ---
-
 # Tortona Lab Milano “ambientoteca” del design
 
 >**Design Meets Making** - La sinergia come metodo, la qualità come linguaggio comune: **4 aziende storiche**, eccellenze del design e dell’artigianato, sotto la guida di nuove generazioni, si uniscono per rispondere alle **nuove tendenze**
