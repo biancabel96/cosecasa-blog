@@ -3,6 +3,7 @@ title: Dolci e calde feste
 date: 2025-11-26
 tags: Food & Beverage, Natale, regali,
 ---
+
 # Dolci e calde feste
 
 >Qualcosa di **dolce** o qualcosa di **caldo** da bere, regaliamo ai nostri cari, oppure offriamoli agli amici in visita, magari facendo anche beneficienza
@@ -30,7 +31,9 @@ tags: Food & Beverage, Natale, regali,
 
 ![](7.jpg)
 
-**Box Degustazione - Ganto** una raffinata selezione di idee regalo a base di fichi, perfetti per chi vuole sorprendere con eleganza, qualità e gusto. L’azienda, con sede nel cuore del Salento, coltiva i propri alberi di fico seguendo un processo di raccolta manuale, essiccazione naturale al sole e lavorazioni artigianali che rispettano la terra e la tradizione mediterranea. Il catalogo natalizio comprende fichi essiccati artigianali, confetture di fico e varianti al cioccolato, oltre a una limited edition pensata per i regali aziendali. Box degustazione con la possibilità di scegliere quali prodotti inserire.
+**Box Degustazione - Ganto** una raffinata selezione di idee regalo a base di fichi, perfetti per chi vuole sorprendere con eleganza, qualità e gusto. L’azienda, con sede nel cuore del Salento, coltiva i propri alberi di fico seguendo un processo di raccolta manuale, essiccazione naturale al sole e lavorazioni artigianali che rispettano la terra e la tradizione mediterranea. Il catalogo natalizio comprende fichi essiccati artigianali, confetture di fico e varianti al cioccolato, oltre a una limited edition pensata per i regali aziendali. Box degustazione con la possibilità di scegliere quali prodotti inserire. Acquistabili sullo shop on line https://www.ganto.it/collections/tutti-i-prodotti
+
+ 
 
 
 **Le Murrine - Pasticceria Pinel** una collezione di sette cioccolatini che fondono il saper fare dolciario con la magia del vetro veneziano. Le nuove praline trasformano la degustazione in un’esperienza estetica e sensoriale, tra ricordi, sapori e tradizioni del territorio. Ogni Murrina ha un guscio di cioccolato fondente finissimo, reso unico da quattro tecniche di decorazione a mano. Al cuore, sette diversi ripieni racchiudono i sapori autentici del territorio veneziano: dallo Zaeto al Bussolà, dal Tiramisù alla Pera del Veneziano e Noce Lara. Ombra di Rosso, con note di vino rosso, Spritz, l’iconico aperitivo veneziano in versione pralina; e Miele di Barena, ricavato dall’unico miele prodotto negli habitat delle barene lagunari.
