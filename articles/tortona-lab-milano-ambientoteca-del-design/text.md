@@ -2,7 +2,6 @@
 title: Tortona Lab Milano “ambientoteca” del design
 date: 2025-11-23
 tags: Design, Arredo e complementi, Bagno,
-draft: true
 ---
 
 # Tortona Lab Milano “ambientoteca” del design
