@@ -2,7 +2,6 @@
 title: Tavola e cucina si vestono a festa
 date: 2025-10-18
 tags: cNatale, Regali, Tavola e Cucina,
-draft: true
 ---
 
 # Tavola e cucina si vestono a festa
