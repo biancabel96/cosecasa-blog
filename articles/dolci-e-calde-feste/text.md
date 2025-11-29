@@ -1,7 +1,7 @@
 ---
 title: Dolci e calde feste
 date: 2025-11-26
-tags: Food & Beverage, Natale, regali,
+tags: Food & Beverage, Natale, Regali,
 ---
 
 # Dolci e calde feste
