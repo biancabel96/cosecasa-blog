@@ -17,7 +17,7 @@ tags: Beauty e Profumo, Regali, Natale,
 
 ![](2.jpg)
 
-**Blue Talisman Extrait de parfum – Ex Nihilo** è concepito come un viaggio immersivo, affascinante e poliedrico in un gioiello prezioso. l Gelsomino Sambac si fonde con il Fiore d'Arancio in un connubio sensuale, rivelando tonalità calde, rotonde e solari. Il fondo, arricchito da Vaniglia e Sandalo, diventa più materico e avvolgente, esaltando l'intensità della fragranza e creando una scia irresistibilmente magnetica.
+**Blue Talisman Extrait de Parfum – Ex Nihilo** è concepito come un viaggio immersivo, affascinante e poliedrico in un gioiello prezioso. l Gelsomino Sambac si fonde con il Fiore d'Arancio in un connubio sensuale, rivelando tonalità calde, rotonde e solari. Il fondo, arricchito da Vaniglia e Sandalo, diventa più materico e avvolgente, esaltando l'intensità della fragranza e creando una scia irresistibilmente magnetica.
 Note olfattive Testa: Pera e Bergamotto Cuore: Fiori d'arancio e Gelsomino Base: Vaniglia, Sandalo, Muschi, Ambrofix™, Legni ambrati.
 
 
@@ -39,7 +39,7 @@ Note olfattive Testa: Pera e Bergamotto Cuore: Fiori d'arancio e Gelsomino Base:
 
 ![](6.jpg)
 
-**Moonlight in Chiangmai - Parfums Dusita** Edp fragranza notturna e misteriosa, si ispira alla dualità tra luce e ombre dipingendo una meravigliosa scena di una notte in una città bagnata dalle luci dei lampioni.
+**Moonlight in Changmai - Parfums Dusita** Edp fragranza notturna e misteriosa, si ispira alla dualità tra luce e ombre dipingendo una meravigliosa scena di una notte in una città bagnata dalle luci dei lampioni.
 Note di testa: Yuzu. Note di cuore: Gelsomino. Note di fondo: legno di Teak.
 
 **Lineam - Laurent Mazzone** Extrait de Parfum. Un invito a lasciarsi accarezzare da una scia gourmand e luminosa, perfetta per le feste, dove la raffinatezza incontra la tentazione. Il profumo si apre con la dolcezza opulenta della frutta candita, accarezzata da un accordo di popcorn che gioca tra innocenza e provocazione. Il rum, intenso e liquoroso, vibra come un ricordo proibito, elevando la composizione con un tocco caldo che inebria i sensi. La vaniglia, pura e sensuale, si distende come un drappo di velluto sulla pelle, mentre mirra e benzoino del Siam scolpiscono una scia resinosa e profondamente evocativa. 
@@ -58,19 +58,19 @@ Note di testa: Yuzu. Note di cuore: Gelsomino. Note di fondo: legno di Teak.
 
 ![](7.jpg)
 
-**Tabacco 1815 10Th Anniversary Perfume – Teatro Fragranze** Uniche celebra un decennio di stile, tradizione e autenticità. Tabacco 1815 si presenta con un nuovo look, pur rimanendo fedele al suo profumo caratteristico: intenso, evocativo e inconfondibile. Ispirata alla nascita del leggendario sigaro toscano, la fragranza rende omaggio al valore delle origini e al piacere di riscoprirle.
+**Tabacco 1815 10Th Anniversary Perfume – Teatro Fragranze Uniche** celebra un decennio di stile, tradizione e autenticità. Tabacco 1815 si presenta con un nuovo look, pur rimanendo fedele al suo profumo caratteristico: intenso, evocativo e inconfondibile. Ispirata alla nascita del leggendario sigaro toscano, la fragranza rende omaggio al valore delle origini e al piacere di riscoprirle.
 
 **Cumbawa Wood – Sensatio** l'ispirazione nasce dall'uso sapiente della Cumbawa, una specie di agrume simile al lime, con una buccia di colore verde fortemente increspata e irregolarmente bombata. Originaria dell’Asia, da molto tempo si coltiva anche nelle zone costiere del nord del Madagascar. La sua scorza è ampiamente utilizzata in cucina per aromatizzare una varietà di piatti, sia dolci sia salati, esaltandone il sapore. Fresca e misteriosa, la fragranza rivela note agrumate e frizzanti, offrendo un’intensità e una persistenza irresistibili.
 
 ![](8.jpg)
 
-**Len Fragrances – Nasra** Edp questa è una fragranza che non si dimentica: una esclusiva composizione orientale di spezie fresche e prugna sensuale nelle note di testa. Prezioso zafferano mischiato con profonde note di cuoio e ricca davana che si trasforma in una base persistente composta da lussurioso legno di cashmere, note di ambra che si diffondono in una squisita vaniglia.
+**Nasra - Len Fragrances** Edp questa è una fragranza che non si dimentica: una esclusiva composizione orientale di spezie fresche e prugna sensuale nelle note di testa. Prezioso zafferano mischiato con profonde note di cuoio e ricca davana che si trasforma in una base persistente composta da lussurioso legno di cashmere, note di ambra che si diffondono in una squisita vaniglia.
 
 **Blonde Amber - Clive Christian** questa fragranza raffinata, densa e sofisticata combina la dolcezza di un’ambra opulenta con il cuore pulsante e suntuoso del tabacco biondo, creando un’esperienza olfattiva che evoca in chiave moderna l’eleganza e fascino dell’Art Deco.  
 
 ![](13.jpg)
 
-**Flaming Red – Santi Burgas** Edp un inno alla passione segreta, un sentimento puro e ardente che resiste alle regole e alle convenzioni. La protagonista è la rosa bulgara, fiore simbolo dell’amore eterno, esaltata dalla dolcezza fruttata del frutto della passione e dalla profondità sensuale dell’oud del Laos. Iris toscano, ambra e vaniglia bourbon completano la composizione, creando una scia raffinata e magnetica che vibra come un battito di cuore innamorato. Regalare questa fragranza significa celebrare l’amore autentico.
+**Flamingo Red – Santi Burgas** Edp un inno alla passione segreta, un sentimento puro e ardente che resiste alle regole e alle convenzioni. La protagonista è la rosa bulgara, fiore simbolo dell’amore eterno, esaltata dalla dolcezza fruttata del frutto della passione e dalla profondità sensuale dell’oud del Laos. Iris toscano, ambra e vaniglia bourbon completano la composizione, creando una scia raffinata e magnetica che vibra come un battito di cuore innamorato. Regalare questa fragranza significa celebrare l’amore autentico.
 
 **Mini-Set Enigma – Metascent** Edp 3 x 10 ml Tre fragranze. Infinite emozioni. Un solo enigma in versione travel: un elegante cofanetto con tre Eau de Parfum da 10 ml, pensato per chi ama viaggiare leggero senza rinunciare all’intensità delle emozioni. Tre fragranze sofisticate che raccontano una storia sensoriale avvolgente e multisfaccettata, capaci di svelare le sfumature più intime e contraddittorie dell’animo umano. Love Affair, Adrenaline e Gaslight compongono questa trilogia affascinante: ogni profumo è un frammento di emozione, un ricordo vivido, un brivido sulla pelle. 
 
@@ -84,7 +84,7 @@ Note di testa: Yuzu. Note di cuore: Gelsomino. Note di fondo: legno di Teak.
 
 **Magnetic Magma - Agarthi Scent Core** EdP 25% una sensualità profonda e vibrante, un’eco primordiale che riscalda la pelle come un abbraccio di luce e materia. L’aria è intrisa di avventura e di promesse sconosciute. Un viaggio olfattivo tra terre misteriose e acque incantate, dove ogni profumo racconta la forza ancestrale della Terra. Una collezione che parla di energia, mistero e luce interiore: il dono perfetto per chi ama l’intensità e la profondità dei profumi che raccontano una storia. Legnoso - Fruttato - Speziato
 
-**20 Iconic Feminine  - Clive Christian** torna alle origini del concetto di “icona” con una nuova edizione limitata. Nate per la prima volta nel 2019 – in occasione del ventesimo anniversario della maison – queste creazioni non celebrano solo il passato: rappresentano una continuità, un dialogo tra eredità e visione futura. Un’esplosione di rosa, regina dei fiori, incontra la ricchezza dello zafferano e un seducente tocco di prugna. Un profumo che brilla e avvolge, che racconta una femminilità allo stesso tempo radiosa e segreta tra fiori cristallini e ambre.
+**20 Iconic Feminine - Clive Christian** torna alle origini del concetto di “icona” con una nuova edizione limitata. Nate per la prima volta nel 2019 – in occasione del ventesimo anniversario della maison – queste creazioni non celebrano solo il passato: rappresentano una continuità, un dialogo tra eredità e visione futura. Un’esplosione di rosa, regina dei fiori, incontra la ricchezza dello zafferano e un seducente tocco di prugna. Un profumo che brilla e avvolge, che racconta una femminilità allo stesso tempo radiosa e segreta tra fiori cristallini e ambre.
 
 ![](3.jpg)
 
