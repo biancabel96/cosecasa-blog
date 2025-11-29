@@ -20,7 +20,7 @@ draft: true
 **Sandali - Subu** è il celebre brand giapponese di sandali invernali. Anche quando fa freddo, possono essere infilati a piedi nudi uscendo all’istante. Con un esterno imbottito effetto piumino e inserti interni a quattro strati, oltre alla nuova tecnologia HEXMAX INSOLE™, offrono supporto, stabilità e funzionalità, perfetti per chi è alla ricerca di uno stile di relax originale e senza sforzo. Distribuito in esclusiva da Moroni Gomma.
 
 
-B**orraccia Vintage - Thermos** per chi ama oggetti dal fascino senza tempo, propone la in edizione limitata nata per celebrare il 120° anniversario del brand. Con il suo design vintage che riproduce l’originale Modello 18 a quadri, è un regalo capace di raccontare una storia. Non solo un accessorio pratico ma un oggetto da collezione. Grazie alle performance termiche di altissimo livello, è il regalo perfetto che combina praticità, storia e stile. 
+**Borraccia Vintage - Thermos** per chi ama oggetti dal fascino senza tempo, propone la in edizione limitata nata per celebrare il 120° anniversario del brand. Con il suo design vintage che riproduce l’originale Modello 18 a quadri, è un regalo capace di raccontare una storia. Non solo un accessorio pratico ma un oggetto da collezione. Grazie alle performance termiche di altissimo livello, è il regalo perfetto che combina praticità, storia e stile. 
 
 ![](16.jpg)
 
@@ -52,7 +52,7 @@ B**orraccia Vintage - Thermos** per chi ama oggetti dal fascino senza tempo, pro
 
 ![](6.jpg)
 
-**Toth - Kaleos** una montatura unisex, definita da un design contemporaneo che unisce una parte anteriore in acetato ad alta densità con aste sottili in acciaio inossidabile. Il modello "Toth" è noto per la sua estetica raffinata, la lavorazione artigianale di alta qualità e la funzionalità, come le cerniere senza viti e i naselli integrati in acetato. 
+**Linosa Havana – Ultralimited** occhiale da vista realizzato a mano combinando il sapere artigiano del distretto bellunese a tecnologie d’avanguardia. Assemblaggio di 12 lastre di acetato di cellulosa, lavorate per più di 41 giorni in diverse fasi: selezione, incollaggio, stagionatura, pressa, forno, taglio, burattatura, finitura e lucidatura. Esemplare unico e non ripetibile nella sua combinazione di colori. Personalizzabile con il proprio nome, firma o simbolo. 
 
 
 **Origin of Line** un brand italiano che intreccia design, innovazione e rispetto per l’ambiente. Una realtà che parte dalla terra e dalle fibre naturali, con un progetto che unisce ricerca scientifica, artigianalità e una visione progressista della moda contemporanea. La canapa: una fibra antica per un futuro sostenibile Made In Italy. Cuore pulsante del progetto è la ricerca sulla canapa tessile, una materia prima nobile e rigenerativa. Grazie a tecnologie all’avanguardia e alla collaborazione con i migliori partner del settore, il brand valorizza le qualità intrinseche della canapa — termoregolatrice, traspirante, igroscopica e antibatterica — dando vita a tessuti dall’alto contenuto tecnico e sensoriale. Lo studio della manipolazione dei materiali e la collaborazione con tecnici esperti consentono di realizzare lavorazioni speciali come spalmature, resinature e laminature, sempre con materie prime di altissima qualità e processi a basso impatto ambientale.
