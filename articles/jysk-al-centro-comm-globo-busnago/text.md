@@ -4,7 +4,6 @@ date: 2025-10-18
 tags: Retail, Arredo e Complementi, Bagno, Outdoor
 draft: true
 ---
-
 # Jysk al Centro Comm. Globo - Busnago
 
 >Uno dei sedici punti vendita in Lombardia della **catena danese di articoli per la casa** in puro stile scandinavo trasloca a **Busnago**
@@ -37,8 +36,10 @@ Nell’anno finanziario 2024/25, JYSK Italia ha ottenuto il proprio miglior risu
 ![](6.jpg)
 
 **JYSK BUSNAGO**
+
 Indirizzo: c/o Centro Commerciale Globo, via Italia 197, 20874 Busnago, MB
 
 _Per maggiori informazioni sui prodotti JYSK:_ **JYSK.it**
+
 _Per maggiori informazioni sull’azienda JYSK:_ **JYSK.com**
 
