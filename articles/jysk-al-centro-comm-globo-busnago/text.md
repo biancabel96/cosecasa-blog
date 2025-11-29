@@ -1,8 +1,9 @@
 ---
 title: Jysk al Centro Comm. Globo - Busnago
-date: 2025-10-18
+date: 2025-11-27
 tags: Retail, Arredo e Complementi, Bagno, Outdoor
 ---
+
 # Jysk al Centro Comm. Globo - Busnago
 
 >Uno dei sedici punti vendita in Lombardia della **catena danese di articoli per la casa** in puro stile scandinavo trasloca a **Busnago**
