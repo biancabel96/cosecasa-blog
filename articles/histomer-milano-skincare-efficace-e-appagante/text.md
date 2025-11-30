@@ -1,10 +1,9 @@
 ---
 title: Histomer Milano - Skincare efficace e appagante
-date: 2025-11-12T00:00:00.000Z
+date: 2025-11-12
 tags: Beauty e Profumi
 draft: true
 ---
-
 # Histomer Milano - Skincare efficace e appagante
 
 >**Histomer Milano** è il nuovo brand di skincare nato dall’expertise di Valetudo: **scienza, innovazione e piacere sensoriale** per una bellezza avanzata e sostenibile
@@ -42,15 +41,15 @@ Per i vari tipi di pelli ed esigenze ci sono **6 linee dedicate**, ciascuna rico
 
 Nella formula la Vitamina C è combinata con l'**Astaxantina**, estratta dall’alga Haematococcus pluvialis che non è solo il segreto del colore rosso-arancio del prodotto, ma anche un **super antiossidante**, fino a 6000 volte più potente della vitamina C nel combattere i radicali liberi.
 Tutte le linee si dividono in **sieri, creme, detergenti  e maschere**. 
-Tra questi **ne ho provati 3** all’interno della mia beauty Routine:
+Tra questi **ne ho provati 3** all’interno della mia beauty Routine e in montagna:
 
 ![](9.jpg)
 
-**Micellar Wonder Water**
+**Micellar Wonder Water** un'acqua micellare delicatissima, pulisce in profondità ma lascia la pelle fresca e veramente morbida e idratata.
 
-**Pinnacle Shield Serum SPF 50**
+**Pinnacle Shield Serum SPF 50** "_questo siero unisce un fattore di protezione SPF50 alla Niacina B3 ed è perfetto per mantenere la pelle pura, combattere i pori dilatati e garantire un'ottima protezione solare. Esattamente quello di cui ho bisogno! La consistenza è liquida ma cremosa e, soprattutto, non unta. Risulta così facile da distribuire sul viso e si assorbe subito, lasciando la pelle morbidissima, con la massima sensazione di comfort_". 
 
-**Peak Guard SPF 30** 
+**Peak Guard SPF 30** "_perfetta per l'esposizione al sole, nel mio caso di alta montagna. Arricchita con Luteina, che filtra la luce blu, Ectoina, che assicura un’idratazione prolungata e un effetto calmante, e proteine di Mandorla Dolce, dalle proprietà emollienti e protettive, è anche particolarmente utile in condizioni di freddo intenso. Anche in questo caso, una texture cremosa, facile da spalmare e di rapido assorbimento che non lascia tracce sgradevoli, ma solo una pelle liscia al tatto e nutrita. La combo Pinnacle Shield Serum SPF 50 e Peak Guard SPF 30 è vincente in tutti gli aspetti, dalla super protezione solare allo scudo antifreddo, dall'effetto emolliente a quello lisciante. Super consigliata!_". 
 
 Tra gli altri prodotti, **vi segnalo questi Highlights**:
 
