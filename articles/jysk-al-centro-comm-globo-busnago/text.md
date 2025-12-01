@@ -1,7 +1,7 @@
 ---
 title: Jysk al Centro Comm. Globo - Busnago
 date: 2025-11-27
-tags: Retail, Arredo e Complementi, Bagno, Outdoor
+tags: Retail, Arredo e complementi, Bagno, Outdoor
 ---
 
 # Jysk al Centro Comm. Globo - Busnago
