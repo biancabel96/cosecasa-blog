@@ -1,7 +1,7 @@
 ---
 title: Profumo, un regalo sempre gradito
 date: 2025-11-30
-tags: Beauty e Profumo, Regali, Natale,
+tags: Beauty e Profumi, Regali, Natale,
 ---
 
 # Profumo, un regalo sempre gradito
