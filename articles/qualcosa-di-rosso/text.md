@@ -2,7 +2,6 @@
 title: Qualcosa di rosso…
 date: 2025-12-1
 tags: Regali, Natale, Accessori
-draft: true
 ---
 # Qualcosa di rosso…
 
