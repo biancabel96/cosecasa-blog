@@ -1,8 +1,7 @@
 ---
 title: Per un Natale spiritoso!
-date: 2025-11-24
+date: 2025-11-27
 tags: Food & Beverage, Regali, Natale
-draft: true
 ---
 
 # Per un Natale spiritoso!
