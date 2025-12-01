@@ -3,6 +3,7 @@ title: Regali scelti con cura
 date: 2025-11-23
 tags: Natale, Regali, Accessori
 ---
+
 # Regali scelti con cura
 
 >Ogni anno a Natale si pone sempre lo stesso problema, ovvero cosa regalare… L’importante è **un dono pensato con cura** per chi è destinato a riceverlo
@@ -74,9 +75,17 @@ tags: Natale, Regali, Accessori
 
 **Videocamere Dom-e - Beghelli** un occhio smart per la tranquillità della famiglia (pet inclusi). Gestibili a distanza in qualsiasi momento tramite smartphone con l’app Dom-e gratuita, sono progettate per sorvegliare in tempo reale quello che accade dentro le mura domestiche. Grazie alla risoluzione Full HD catturano ogni dettaglio, mentre la visione notturna permette di "vedere" al buio fino a 10 metri di distanza, garantendo una protezione continua anche nelle ore meno illuminate. Dotate di sensore di movimento, sirena interna, vivavoce e rilevamento animali (ideali per controllare a distanza anche gli amici a quattro zampe), funzionano con gli assistenti vocali Alexa e Google Home. Inoltre, la scheda di memoria MicroSD a colori può essere integrata con la modalità di registrazione continua su cloud (opzionale).  
 
+
 **Encens de Fumigation Ceremonia - Chapel Factory** una composizione di 25 resine e piante fumiganti i cui profumi riempiono l'atmosfera. Brucia su un bruciatore di profumi e riempie l’ambiente. Vieni a viaggiare indietro nel tempo con questo profumo magico unico nel suo genere.
 
 ![](2.jpg)
+
+**Arctis Nova Elite - SteelSeries** le prime cuffie wireless certificate Hi-Res per il gaming che offrono prestazioni rivoluzionarie con un suono di elevata qualità grazie alla trasmissione a 24 bit/96 kHz su 2,4 GHz e Bluetooth. Sono alimentate da altoparlanti in fibra di carbonio che offrono nuovi incredibili livelli di precisione, riproducendo frequenze da 10Hz fino a 40kHz per la più ampia gamma di suoni. Altre caratteristiche includono l'app Arctis con oltre 200 preimpostazioni audio specifiche per i giochi che possono essere modificate velocemente in tempo reale; la migliore cancellazione attiva del rumore (ANC) nel gaming; microfoni con commutazione automatica a 32 kHz/16 bit con la tecnologia AI Noise Rejection in grado di bloccare fino al 97% del rumore di fondo, e un sistema di alimentazione che fornisce una durata illimitata con un sistema a doppia batteria.
+
+
+**Viterbo Sun - Ultra Limited** occhiale da sole colore Havana realizzato a mano combinando il sapere artigiano del distretto bellunese a tecnologie d’avanguardia. Assemblaggio di 12 lastre di acetato di cellulosa, lavorate per più di 41 giorni in diverse fasi: selezione, incollaggio, stagionatura, pressa, forno, taglio, burattatura, finitura e lucidatura. Esemplare unico e non ripetibile nella sua combinazione di colori. Personalizzabile con il proprio nome, firma o simbolo.
+
+![](18.jpg)
 
 **Botanicals Cactus in fiore (11509) - LEGO®** delizia gli amanti della natura con il set pensato per bambini e adulti dai 9 anni in su. Ricco di dettagli autentici, questo set creativo permette di costruire due vivaci modelli di cactus: uno grande in piena fioritura con un fiore rosa dal centro giallo, e uno più piccolo decorato con boccioli rosa in diverse fasi di crescita. Ogni cactus presenta tonalità verdi realistiche ed è esposto in un elegante vaso color azzurro pastello, che lo fa diventare un pezzo di arredamento divertente e stiloso una volta costruito.
 
