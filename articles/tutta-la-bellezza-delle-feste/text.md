@@ -1,8 +1,7 @@
 ---
 title: Tutta la bellezza delle feste
-date: 2025-11-29
+date: 2025-12-02
 tags: Beauty e Profumi, Regali, Natale
-draft: true
 ---
 
 # Tutta la bellezza delle feste
