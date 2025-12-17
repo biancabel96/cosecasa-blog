@@ -2,7 +2,6 @@
 title: MILOS GREEK FOOD - fast-casual in chiave Greek Chic
 date: 2025-12-17
 tags: Food & Beverage, Cucina Greca,
-draft: true
 ---
 # MILOS GREEK FOOD - fast-casual in chiave Greek Chic
 
