@@ -2,7 +2,6 @@
 title: Gourmantico 2026 - Un racconto da gustare
 date: 2025-10-18
 tags: Food & Beverage, Ristorazione
-draft: true
 ---
 
 # Gourmantico 2026 - Un racconto da gustare
