@@ -2,7 +2,6 @@
 title: Gourmantico 2026 - Un racconto da gustare
 date: 2025-10-18
 tags: Food & Beverage, Ristorazione
-draft: true
 ---
 
 # Gourmantico 2026 - Un racconto da gustare
@@ -39,6 +38,7 @@ Il tema di Gourmantico 2026 è: **Racconti da gustare**: un invito a vivere la c
 
 Il racconto diventa così corale e circolare: **parte dalla cucina, passa attraverso la sala e si completa con il cliente**, che non è semplice spettatore ma parte attiva dell’esperienza. La tavola si afferma come spazio vivo, dove la cucina italiana – oggi patrimonio culturale – continua a evolversi senza perdere autenticità.
 
+_Ph.credits: Maria Rosa Sirotti_
 
 Info e ristoranti aderenti:
 **www.gourmantico.it**
@@ -48,24 +48,44 @@ Info e ristoranti aderenti:
 **I ristoranti e gli chef protagonisti**
 
 
-•	Al Vigneto – Chef Vito Siragusa (Grumello del Monte, BG)
-•	Antica Osteria dei Camelì – Famiglia Camelì (Ambivere, BG)
-•	Bolle Restaurant – Chef Andrea Rota (Lallio, BG)
-•	Ristorante Collina – Chef Mario Cornali (Almenno San Bartolomeo, BG)
-•	Cucina Cereda – Chef Giuseppe Cereda ★ Michelin (Ponte San Pietro, BG)
-•	Frosio Ristorante – Chef Paolo Frosio (Almè, BG)
-•	Gaudio – Chef Diego Papa (Barbariga, BS)
-•	Il Cantinone – Chef Stefano Masanti (Madesimo, SO)
-•	Il Cantuccio – Chef Mauro Elli (Albavilla, CO)
-•	Il Saraceno – Chef Roberto Proto ★ Michelin (Cavernago, BG)
-•	Impronte – Chef Cristian Fagone ★ Michelin (Bergamo)
-•	La Caprese – Chef Roberto Donadoni (Mozzo, BG)
-•	LoRo – Chef Pierantonio Rocchetti ★ Michelin (Trescore Balneario, BG)
-•	Osteria della Brughiera – Chef Paolo Cortinovis ★ Michelin (Villa d’Almè, BG)
-•	Osteria Tre Gobbi – Chef Marco Carminati (Bergamo)
-•	Pomiroeu – Chef Giancarlo Morelli (Seregno, MB)
-•	Roof Garden Restaurant – Chef Gianpietro Semperboni (Bergamo)
-•	Tenuta Casa Virginia – Chef Antonio Lecchi (Villa d’Almè, BG)
-•	Florian Maison – Chef Umberto De Martino (San Paolo d’Argon, BG)
-•	Villa Elena – Chef Marco Galtarossa ★★ Michelin (Bergamo Alta)
-•	Zù Ristorante – Chef Angelo Bonfitto (Riva di Solto, BG)
+**•**	Al Vigneto – Chef Vito Siragusa (Grumello del Monte, BG)
+
+**•**	Antica Osteria dei Camelì – Famiglia Camelì (Ambivere, BG)
+
+**•**	Bolle Restaurant – Chef Andrea Rota (Lallio, BG)
+
+**•**	Ristorante Collina – Chef Mario Cornali (Almenno San Bartolomeo, BG)
+
+**•**	Cucina Cereda – Chef Giuseppe Cereda ★ Michelin (Ponte San Pietro, BG)
+
+**•**	Frosio Ristorante – Chef Paolo Frosio (Almè, BG)
+
+**•**	Gaudio – Chef Diego Papa (Barbariga, BS)
+
+**•**	Il Cantinone – Chef Stefano Masanti (Madesimo, SO)
+
+**•**	Il Cantuccio – Chef Mauro Elli (Albavilla, CO)
+
+**•**	Il Saraceno – Chef Roberto Proto ★ Michelin (Cavernago, BG)
+
+**•**	Impronte – Chef Cristian Fagone ★ Michelin (Bergamo)
+
+**•**	La Caprese – Chef Roberto Donadoni (Mozzo, BG)
+
+**•**	LoRo – Chef Pierantonio Rocchetti ★ Michelin (Trescore Balneario, BG)
+
+**•**	Osteria della Brughiera – Chef Paolo Cortinovis ★ Michelin (Villa d’Almè, BG)
+
+**•**	Osteria Tre Gobbi – Chef Marco Carminati (Bergamo)
+
+**•**	Pomiroeu – Chef Giancarlo Morelli (Seregno, MB)
+
+**•**	Roof Garden Restaurant – Chef Gianpietro Semperboni (Bergamo)
+
+**•**	Tenuta Casa Virginia – Chef Antonio Lecchi (Villa d’Almè, BG)
+
+**•**	Florian Maison – Chef Umberto De Martino (San Paolo d’Argon, BG)
+
+**•**	Villa Elena – Chef Marco Galtarossa ★★ Michelin (Bergamo Alta)
+
+**•**	Zù Ristorante – Chef Angelo Bonfitto (Riva di Solto, BG)
