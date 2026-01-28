@@ -1,7 +1,7 @@
 ---
 title: Beauty proposte 2026
-date: 2025-10-18
-tags: cultura,
+date: 2026-01-29
+tags: Beauty e Profumi,
 ---
 
 # Beauty proposte 2026
