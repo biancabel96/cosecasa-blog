@@ -51,6 +51,12 @@ tags: Regali, San Valentino
 
 ![](26.jpg)
 
+**Paisley Bordeaux - In The Box** nel colore più cool della stagione, queste calze con disegno pasley  e floreale daranno un tocco glamour a ogni outfit.
+
+**RX7 Ultimate XR1600 – Remington** Il rasoio per tagliare i capelli corti, stile rasato, con cinque testine per ottenere uno stile buzz cut in modalità semplice e senza sforzo. Massimo contatto con la nuca e risultati rapidi (rasatura completa in meno di 2 minuti***). Le lame Dual Track sono in grado di radere fino a 0,2 mm di lunghezza, mentre la funzione Turbo Speed contrasta la crescita dei capelli più spessi per una finitura uniforme. 
+
+![](24b.jpg)
+
 **Botanicals Parete Floreale - LEGO®** un set da costruzione da 879 pezzi elegante e altamente personalizzabile pensato per portare in ogni casa una bellezza floreale che dura per sempre. Al centro del set si trova un sistema a traliccio dotato di funzionalità modulari e di elementi floreali riposizionabili, che invita i costruttori a liberare la propria creatività e a personalizzare il capolavoro botanico. Il set presenta inoltre nuove tonalità di rosa e viola per il sistema LEGO nel 2026.
 
 **Mävinn – Ikea** fodera per cuscino floreale, un'esplosione di colori e creatività che porta un tocco di freschezza e vitalità a qualsiasi ambiente. Ogni fodera non è solo un elemento decorativo, ma rappresenta anche un'opportunità di empowerment economico e resilienza per 305 donne giordane e rifugiate siriane che lavorano presso la Jordan River Foundation. Un prodotto che unisce design, artigianato e impegno sociale in un'unica, straordinaria creazione.
@@ -65,7 +71,7 @@ tags: Regali, San Valentino
 
 **Rival 3 Wireless Gen 2 – SteelSeries** è un mouse progettato per garantire prestazioni velocissime e reattività istantanea. Il sensore ottico True Move Air da 18k DPI offre un'esecuzione eccezionale nel gioco per i movimenti e i trascinamenti. Grazie a un'accelerazione massima di 40g e a una latenza di clic ultra-ottimizzata di soli 1,9 ms, i giocatori possono sperimentare le migliori prestazioni della categoria. La durata della batteria offre da 45 a 200 ore su 2,4 GHz, e fino a 450 ore con il Bluetooth.
 
-**Multigrooming G12 Graphite Series PG2120 – Remington** il device per la rasatura che può fare veramente tutto. Con 6 potenti accessori, il kit è in grado di gestire tutte le esigenze di styling. Se la barba è una esigenza di stile, viene in aiuto la tecnologia trim shave: tagliando più da vicino rispetto a una lama standard, consente di ottiene la giusta lunghezza della barba. Completano la dotazione il doppio pettine regolabile (2-20 mm) e i pettini fissi da 1,5 e 3 mm che rendono il look desiderato più facile che mai.
+**Mr Box Paris Blu - In The Box** le calze con l’iconico orsetto Mr. Box nella romantica Parigi sono perfette per l’occasione.
 
-![](24.jpg)
+![](24c.jpg)
 
