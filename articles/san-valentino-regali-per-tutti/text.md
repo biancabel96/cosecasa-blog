@@ -7,7 +7,6 @@ tags: Regali, San Valentino
 # San Valentino - regali per tutti
 
 >Per la festa degli innamorati, cerchiamo **un regalo su misura per chi amiamo**: sarà sicuramente felice!
-
 ![](banner.jpg)
 
 **Tegame Basso a Cuore con pomolo a cuore – Le Creuset** in ghisa vetrificata. Aggiungerà un tocco di romanticismo a qualsiasi tavola. Pomolo resistente al calore (fino a 260 °C) è studiato per garantire un’ottima presa, anche utilizzando una presina per sollevare il coperchio. Un sottile strato interno vetrificato rende più facile la pulizia. Adatta al forno, al piano cottura, all'induzione o sotto il grill.
@@ -38,7 +37,7 @@ tags: Regali, San Valentino
 
 **Melanite Mist - Woodwick** una candela per un viaggio olfattivo unico: dal frizzante pomelo e litchi illuminati da pepe rosa, alle note minerali e fumé di vulcani e cipressi secolari, fino ai sentori nebbiosi di melonite e muschio bagnato dalla pioggia. Capace di trasformare ogni ambiente in un paesaggio sensoriale da sogno. Il regalo perfetto per lui, che può usare anche lei.
 
-![](37.jpg)
+![](27.jpg)
 
 **Dagg Salvia – Ikea** copripiumino matrimoniale con 2 federe multicolore con motivo floreale. Anticipa la primavera con i suoi colori, perfetti anche per un romantico San Valentino.
 
