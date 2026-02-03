@@ -2,7 +2,6 @@
 title: House Of BMW di BYmyCAR - San Donato Mil.
 date: 2026-02-13
 tags: Eventi, Motori
-draft: true
 ---
 
 # House Of BMW di BYmyCAR - San Donato Mil.
