@@ -1,6 +1,6 @@
 ---
 title: House Of BMW di BYmyCAR - San Donato Mil.
-date: 2026-02-13
+date: 2026-02-03
 tags: Eventi, Motori
 ---
 
@@ -27,13 +27,11 @@ Per la **serata inaugurale**, nell’ideale percorso temporale realizzato nella 
 
 La **BMW 1500**, vera pioniera delle berline sportive, ha segnato il rilancio globale di BMW negli anni Sessanta, elevando il piacere di guida a caratteristica distintiva del brand, mentre la BMW iX3 rappresenta oggi l’avanguardia della mobilità sostenibile, con soluzioni innovative in termini di digitalizzazione, tecnologia, elettrificazione, design ed esperienza di bordo.
 
-![](9.jpg)
+![](6.jpg)
 
 ![](5.jpg)
 
 Con i suoi quattro marchi BMW, MINI, Rolls-Royce e BMW Motorrad, il BMW Group è il costruttore leader mondiale di auto e moto premium e offre anche servizi finanziari premium. Il BMW Group comprende oltre **30 stabilimenti di produzione nel mondo ed ha una rete di vendita globale in più di 140 Paesi**.
-
-![](6.jpg)
 
 ![](12.jpg)
 
