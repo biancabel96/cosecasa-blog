@@ -51,6 +51,12 @@ tags: Regali, San Valentino
 
 ![](26.jpg)
 
+**Cuore d'Oud - Rito** celebra l'amore con un prezioso bonbon olfattivo, nel nuovo formato da 50 ml. Un Extrait de Parfum che cattura la seduzione dell'Oriente con la Rosa di Taif e la Rosa Damascena. Nelle note di fondo, l'Oud entra in scena, agendo insieme allo Zaﬀerano come un mediatore in questa storia d’amore aromatica. Una fusione di profumi che si armonizzano splendidamente.
+
+**Siero Viso Anti-Age, ultra-concentrato – Milace** una luxury skincare a base di Zafferano Bio coltivato sui colli della Brianza ed estratto con una tecnologia all’avanguardia che non spreca nessuna parte del fiore, esaltandone le virtù. All’interno di una texture in gel dall’azione levigante istantanea, un concentrato di attivi che distende le linee sottili e migliora la compattezza cutanea, restituendo al viso un aspetto profondamente rigenerato. Contiene:  Estratto di Zafferano Milace; Idrossiresveratrolo con la sua potenzialità schiarente; Collagene Marino per rendere la pelle più elastica.
+
+![](35.jpg)
+
 **Paisley Bordeaux - In The Box** nel colore più cool della stagione, queste calze con disegno pasley  e floreale daranno un tocco glamour a ogni outfit.
 
 **RX7 Ultimate XR1600 – Remington** Il rasoio per tagliare i capelli corti, stile rasato, con cinque testine per ottenere uno stile buzz cut in modalità semplice e senza sforzo. Massimo contatto con la nuca e risultati rapidi (rasatura completa in meno di 2 minuti***). Le lame Dual Track sono in grado di radere fino a 0,2 mm di lunghezza, mentre la funzione Turbo Speed contrasta la crescita dei capelli più spessi per una finitura uniforme. 
