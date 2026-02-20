@@ -1,7 +1,7 @@
 ---
 title: I Pop up di Milano-Cortina
 date: 2026-02-19
-tags: Cultura, Mostre
+tags: Sport, Eventi, Tecnologia, Fashion,
 ---
 
 # I Pop up di Milano-Cortina
