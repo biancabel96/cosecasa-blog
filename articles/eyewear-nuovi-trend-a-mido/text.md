@@ -22,7 +22,7 @@ Come ogni edizione, segnalo alcuni brand che ripropongo per la loro costante **r
 
 ![](20.jpg)
 
-Progettati in California, realizzati a mano in Italia applicando tecnologie innovative. I prodotti **Tavat**sono curati nei minimi dettagli, realizzati in piccoli lotti, con dettagli unici e un tocco personale. Le lenti degli occhiali da sole Tavat sono arricchite con melanina sintetica per garantire la massima protezione degli occhi, migliorando la chiarezza e il contrasto, senza alcuna distorsione del colore. Funge da scudo contro i raggi UV e fino al 97% della luce blu-violetta dannosa (HEV). ****https://tavat-eyewear.com/**
+Progettati in California, realizzati a mano in Italia applicando tecnologie innovative. I prodotti **Tavat** sono curati nei minimi dettagli, realizzati in piccoli lotti, con dettagli unici e un tocco personale. Le lenti degli occhiali da sole Tavat sono arricchite con melanina sintetica per garantire la massima protezione degli occhi, migliorando la chiarezza e il contrasto, senza alcuna distorsione del colore. Funge da scudo contro i raggi UV e fino al 97% della luce blu-violetta dannosa (HEV). **https://tavat-eyewear.com/**
 
 ![](21.jpg)
 
@@ -98,7 +98,7 @@ Gli occhiali devono distinguersi per il loro carattere estetico, originale, crea
 
 ![](8.jpg)
 
-**CORE MIO***
+**CORE MIO**
 
 ![](16.jpg)
 
