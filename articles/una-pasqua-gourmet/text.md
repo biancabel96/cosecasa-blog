@@ -17,7 +17,6 @@ tags: Food & Beverage,
 **Colomba Cioccolato Bianco, Caramello Salato e Noci Pecan** - **T'a Milano** è realizzata solo con materie prime di qualità, lavorate artigianalmente per dare vita ad una Colomba golosa e sorprendente. L’impasto classico è farcito da deliziose gocce di caramello salato e gocce di cioccolato bianco e la granella è arricchita da noci pecan: un mix davvero irresistibile. 
 
 **Recioto della Valpolicella DOCG** - **La Collina dei Ciliegi** Alla vista si presenta di un rosso rubino con riflessi granato. Al naso ricco di spezie dolci ed esotiche accompagnate dalla tipica nota di frutta candita. Tannino setoso ed avvolgente, finale lungo e balsamico. Un vino perfetto per dolci a base di cioccolato sia fondente che al latte, crostata e dolci a base di amarene. Da provare anche da solo.
-
 ![](6.jpg)
 
 **Agnello pasquale** - **Caffè di Sicilia 1926** Dolce iconico delle festività, l’Agnello racchiude nella sua forma un patrimonio di gesti antichi e lavorazioni pazienti. La base è costituita da pasta reale, ottenuta dalla lavorazione a caldo di mandorle finemente tritate, acqua e zucchero. Il cuore del dolce rivela un ripieno morbido e avvolgente di pasta di pistacchio, anch’essa lavorata a caldo con pistacchi tritati, acqua e zucchero, per preservarne intensità aromatica e fragranza.
