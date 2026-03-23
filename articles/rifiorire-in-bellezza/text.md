@@ -39,7 +39,7 @@ tags: Beauty e Profumi,
 
 ![](5.jpg)
 
-**Rancé 1795** - **Mathilde** Edp La fragranza fa parte della Collection Impériale pour femme che riunisce le fragranze più sofisticate del marchio e si ispira a personaggi storici realmente esistiti durante l’era imperiale francese, al loro carattere e ai loro valori. L’armonia del narciso, le pennellate di frutti esotici e i tocchi di iris e vaniglia delineano il ritratto di Matilde Letizia Guglielmina Bonaparte (1820-1904), nipote di Napoleone I e cugina del futuro Napoleone III, mecenate delle Arti e artista ella stessa. 
+**Mathilde** - **Rancé 1795** Edp La fragranza fa parte della Collection Impériale pour femme che riunisce le fragranze più sofisticate del marchio e si ispira a personaggi storici realmente esistiti durante l’era imperiale francese, al loro carattere e ai loro valori. L’armonia del narciso, le pennellate di frutti esotici e i tocchi di iris e vaniglia delineano il ritratto di Matilde Letizia Guglielmina Bonaparte (1820-1904), nipote di Napoleone I e cugina del futuro Napoleone III, mecenate delle Arti e artista ella stessa. 
 
 **Confident by G Gentlemen** - **Australian Gold**  Un preparatore studiato per la pelle maschile, che aiuta a migliorare l’aspetto dell’incarnato, favorendo un colorito uniforme e luminoso. Formulazione ad assorbimento rapido con infusione di natural bronzer quali guscio di Noce Nera ed estratti di Semi di Annatto che donano un immediato e superficiale colore naturale. Il complesso Dashing & Dignified Complex nutre, idrata e tonifica. L’Acqua di Cocco rinfresca, rivitalizza e ammorbidisce. La tecnologia brevettata ColorGuard™ Tattoo Technology idrata in profondità aiutando a prevenire lo scolorimento dei tattoo.
 
@@ -75,3 +75,9 @@ la freschezza delle prime foglie, i fichi del re maturano tutto l’anno, sprigi
 **Sapone all’Olio di Oliva** - **Olivella** Una formula essenziale composta da soli tre ingredienti, resa possibile da un processo produttivo brevettato che preserva le componenti funzionali dell’olio vergine. L’olio vergine ultra-purificato impiegato nelle formulazioni viene stabilizzato per garantire affinità cutanea e performance nel tempo. La sua composizione, naturalmente compatibile con la barriera idrolipidica, sostiene l’equilibrio della pelle rispettandone la fisiologia. 
 
 ![](3.jpg)
+
+**Papaia Ibisco** - **Teatro Fragranze Uniche** il nuovo Luxury Perfume Spray per la persona, racconta di un luogo che non ha coordinate, dove il tempo rallenta, lasciando spazio a uno stato di benessere puro e spontaneo. È un mix che sa di vacanza anticipata e di natura che si risveglia e la mente inizia a viaggiare verso mete esotiche. 
+
+**Hydra Body Serum** - **FaceD** nuovo siero corpo idratante per un’idratazione efficace senza rinunciare alla leggerezza. Impalpabile e fresco, ideale anche quando si ha poco tempo e si vuole vestirsi immediatamente dopo l’applicazione, grazie a una texture ultra-sottile ed evanescente che, a contatto con la pelle, si trasforma in un velo d’acqua. Un’innovativa struttura fosfolipidica che combina Glicerina e Acido Ialuronico a 4 pesi molecolari per un’idratazione multilivello.
+
+![](12.jpg)
