@@ -25,7 +25,7 @@ tags: Beauty e Profumi,
 
 **Liftactiv Collagen Specialist 16 Eye Serum Anti-Ageing** - **Vichy** Il siero contorno occhi anti-età offre un trattamento mirato e leggero alla delicata zona del contorno occhi. Formulato con proxylane, un complesso pro-collagene, niacinamide e vitamina C, il siero rinfresca e illumina l'incarnato, contribuendo ad attenuare la comparsa di rughe sottili. Una miscela di peptidi e ramnosio favorisce una pelle più liscia e tonica, donando al contorno occhi un aspetto visibilmente più liftato nel tempo.
 
-![](11.jpg)
+![](13.jpg)
 
 **Phoebe** - **Liberty London LBTY** Atomizzatore da viaggio ricaricabile con capacità 5 ml. E’ decorato con la stampa Thorpe e avvolto nel tessuto di cotone Tana Lawn™ di Liberty. Componenti in metallo dorato. Può essere riempito facilmente con la fragranza preferita direttamente dal flacone. Distribuito da Campomarzio70.
 
