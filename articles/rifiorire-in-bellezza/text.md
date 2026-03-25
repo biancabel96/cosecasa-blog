@@ -21,6 +21,12 @@ tags: Beauty e Profumi,
 
 ![](1.jpg)
 
+**Love Supreme** - **Rito** la nuova fragranza nata dalla collaborazione con **Zhor Parfums**. Già dal suo incipit con Litchi, Lampone e Ciliegia, questa fragranza colpisce, rivelando quel suo lato carnale e vibrante che fa girare la testa. Seguono Accordo Champagne, Rosa Marocchina e Mandorla Amara, prima di diventare eterno con le note di fondo di Ambra, Vaniglia Bourbon, Miele e Cuoio. Per la prima volta, il tappo scultura si veste d'oro lucido e porta impresso il marchio Zhor; il flacone multisfaccettato si veste di un colore che esce dagli schemi del brand: il rosso passione. Il vetro  presenta una verniciatura interna bianca, simbolo di purezza, che protegge la fragranza, mentre una sfumatura trasparente di rosso passione sale dal basso verso l’alto.
+
+**Liftactiv Collagen Specialist 16 Eye Serum Anti-Ageing** - **Vichy** Il siero contorno occhi anti-età offre un trattamento mirato e leggero alla delicata zona del contorno occhi. Formulato con proxylane, un complesso pro-collagene, niacinamide e vitamina C, il siero rinfresca e illumina l'incarnato, contribuendo ad attenuare la comparsa di rughe sottili. Una miscela di peptidi e ramnosio favorisce una pelle più liscia e tonica, donando al contorno occhi un aspetto visibilmente più liftato nel tempo.
+
+![](11.jpg)
+
 **Phoebe** - **Liberty London LBTY** Atomizzatore da viaggio ricaricabile con capacità 5 ml. E’ decorato con la stampa Thorpe e avvolto nel tessuto di cotone Tana Lawn™ di Liberty. Componenti in metallo dorato. Può essere riempito facilmente con la fragranza preferita direttamente dal flacone. Distribuito da Campomarzio70.
 
 **Rose Magnetic** - **Essential Parfums** Il più sensuale tra tutti i fiori svela in questa creazione ogni sua sfaccettatura: giocosa, irresistibile e al tempo stesso moderna. Un accenno di pompelmo amaro e menta fresca crea un contrasto vibrante. Strati di litchi, legno di cedro naturale, muschi e baccello di vaniglia naturale ne amplificano il fascino inebriante. Nel cuore si intrecciano Rosa essenziale Naturale LMRTM e Assoluta di Rosa Turca Naturale LMRTM, entrambe certificate “For Life”. Distribuito da Campomarzio70.
