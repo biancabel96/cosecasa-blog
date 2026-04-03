@@ -1,7 +1,7 @@
 ---
 title: THUN scopre l’Incanto di Primavera
 date: 2026-04-02
-tags: Accessori, Arredo e complementi, Design, Outdoor,
+tags: Eventi, Tavola e Cucina
 ---
 
 # THUN scopre l’Incanto di Primavera
