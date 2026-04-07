@@ -7,6 +7,7 @@ tags: Beauty e Profumi,
 # La K-Beauty a Cosmoprof 2026
 
 >L'edizione di Cosmoprof Worldwide Bologna 2026 ha confermato il **ruolo centrale della Corea del Sud** come leader globale nell'innovazione estetica
+_a cura di Maria Rosa Sirotti e Elena Braschi_
 ![](banner.jpg)
 
 Con oltre **100 aziende leader** presenti nei padiglioni dedicati , la Corea del sud ha dominato il panorama beauty internazionale. Il tema principale è stato il **K-Beauty Renaissance**, una riscoperta della bellezza classica unita a tecnologie d'avanguardia. I marchi coreani, infatti, si sono distinti per un approccio che fonde **tradizione erboristica e alta tecnologia**. In questo modo, la medicina tradizionale coreana **Hanbang**, che si compone di trattamenti per la guarigione di mente e corpo, viene modernizzata: antiche  formule  con **erbe e radici** vengono aggiornate con **peptidi e tecnologie di incapsulamento** per una maggiore efficacia. 
