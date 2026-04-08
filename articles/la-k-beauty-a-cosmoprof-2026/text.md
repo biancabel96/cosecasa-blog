@@ -10,15 +10,16 @@ tags: Beauty e Profumi,
 _a cura di Maria Rosa Sirotti e Elena Braschi_
 ![](banner.jpg)
 
-Con oltre **100 aziende leader** presenti nei padiglioni dedicati , la Corea del sud ha dominato il panorama beauty internazionale. Il tema principale è stato il **K-Beauty Renaissance**, una riscoperta della bellezza classica unita a tecnologie d'avanguardia. I marchi coreani, infatti, si sono distinti per un approccio che fonde **tradizione erboristica e alta tecnologia**. In questo modo, la medicina tradizionale coreana **Hanbang**, che si compone di trattamenti per la guarigione di mente e corpo, viene modernizzata: antiche  formule  con **erbe e radici** vengono aggiornate con **peptidi e tecnologie di incapsulamento** per una maggiore efficacia. 
+Con oltre **100 aziende leader** presenti nei padiglioni dedicati, la Corea del sud ha dominato il panorama beauty internazionale. Il tema principale è stato il **K-Beauty Renaissance**, una riscoperta della bellezza classica unita a tecnologie d'avanguardia. I marchi coreani, infatti, si sono distinti per un approccio che fonde **tradizione erboristica e alta tecnologia**. In questo modo, la medicina tradizionale coreana **Hanbang**, che si compone di trattamenti per la guarigione di mente e corpo, viene modernizzata: antiche  formule  con **erbe e radici** vengono aggiornate con **peptidi e tecnologie di incapsulamento** per una maggiore efficacia. 
 
-L’ultima innovazione è il **PDRN**(Polideossiribonucleotide), un potente ingrediente rigenerante derivato da frammenti di **DNA di salmone o fonti vegetali**, utilizzato per stimolare **collagene ed elastina**. Migliora l'elasticità, ripara la barriera cutanea, idrata intensamente e riduce l'infiammazione, rendendo la pelle più giovane e luminosa.
+L’ultima innovazione è il **PDRN** (Polideossiribonucleotide), un potente ingrediente rigenerante derivato da frammenti di **DNA di salmone o fonti vegetali**, utilizzato per stimolare **collagene ed elastina**. Migliora l'elasticità, ripara la barriera cutanea, idrata intensamente e riduce l'infiammazione, rendendo la pelle più giovane e luminosa.
 
 Sempre molto amata la **Centella Asiatica**, uno degli ingredienti più utilizzati nella medicina tradizionale cinese e nella cosmesi coreana che apporta benefici ad ogni tipo di pelle per le proprietà **lenitive, antiossidanti, antinfiammatorie, idratanti e rigeneranti**. La K-Beauty dichiara guerra a qualunque tipo di rossore e imperfezione cutanea: il viso deve avere una pelle uniforme, chiara e lucida. Per questo, molte aziende si occupano di fornire **prodotti mirati ai problemi di macchie, pelle iper reattiva e a tendenza acneica**.
 
 ![](11.jpg)
 
-Il design presenta **forme arrotondate e tattili** e il packaging in vetro comunica sostenibilità e prestigio. Importante il focus su **Longevità e Barriera Cutanea**: un passaggio da routine frenetiche a una cura della pelle più matura, focalizzata sulla **salute a lungo termine della barriera cutanea**. Da segnalare la costante evoluzione delle texture e delle metodologie di applicazione:come i prodotti che **uniscono skincare e makeup**, come le **ampoule shots** e le essenze a base di **micro-aghi** (microneedle essences) per affinare la grana della pelle e minimizzare i pori. 
+Il design presenta **forme arrotondate e tattili** e il packaging in vetro comunica sostenibilità e prestigio. Importante il focus su **Longevità e Barriera Cutanea**: un passaggio da routine frenetiche a una cura della pelle più matura, focalizzata sulla **salute a lungo termine della barriera cutanea**. 
+Da segnalare la costante evoluzione delle texture e delle metodologie di applicazione:come i prodotti che **uniscono skincare e makeup**, come le **ampoule shots** e le essenze a base di **micro-aghi** (microneedle essences) per affinare la grana della pelle e minimizzare i pori. 
 Le **maschere** continuano ad essere il prodotto più gettonato e si evolvono nella composizione, nel tipo di ingredienti all’interno e anche nel packaging, con il **nuovo formato arrotolato**. 
 
 Una serie di **aziende coreane** che abbiamo incontrato a Cosmoprof e di cui abbiamo provato i prodotti, ci sono sembrate particolarmente rappresentative delle nuove tendenze:
@@ -59,7 +60,7 @@ Una serie di **aziende coreane** che abbiamo incontrato a Cosmoprof e di cui abb
 
 ![](10.jpg)
 
-**RESEAR** è un marchio di cosmetici coreano che trasforma il kimbap, un piatto tipico della cucina coreana, in maschere per il viso, un prodotto tipico della cosmesi coreana. La Kimbap Roll Mask è una maschera nera per pelle arrossata e irritata. Rinfrescante, idratante lenitiva rossore.
+**RESEAR**: è un marchio di cosmetici coreano che trasforma il kimbap, un piatto tipico della cucina coreana, in maschere per il viso, un prodotto tipico della cosmesi coreana. La Kimbap Roll Mask è una maschera nera per pelle arrossata e irritata. Rinfrescante, idratante lenitiva rossore.
 
 **THERAPY VONESTIS**: un marchio di alta gamma specializzato in trattamenti spa di lusso e protocolli anti-età esclusivi. La sua filosofia si basa sul valore della natura e sull'essenza del tempo, proponendo prodotti anti-età avanzati come la celebre linea Diamond Ritual e la piTherapy per ripristinare l'equilibrio della pelle.
 
@@ -67,8 +68,7 @@ Una serie di **aziende coreane** che abbiamo incontrato a Cosmoprof e di cui abb
 
 **CELIMAX**: si basa su trasparenza e onestà e si definisce un brand che non promette miracoli ma soluzioni reali testate dagli utenti. È celebre per la sua linea al Noni, un superfood dalle potenti proprietà antiossidanti e lenitive.
 
-**SEOUL FACE**
-: incarna lo spirito della bellezza metropolitana di Seoul con prodotti innovativi e performanti, dai sieri illuminanti alle maschere viso, pensati per ottenere la famosa "glass skin" coreana.
+**SEOUL FACE**: incarna lo spirito della bellezza metropolitana di Seoul con prodotti innovativi e performanti, dai sieri illuminanti alle maschere viso, pensati per ottenere la famosa "glass skin" coreana.
 
 ![](6.jpg)
 
