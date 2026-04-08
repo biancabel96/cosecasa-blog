@@ -74,14 +74,16 @@ Utilizza alte concentrazioni di **Magnesio**, essenziale per il metabolismo cell
 
 **Shampoo AH Hair Care** favorisce la rigenerazione capillare e contiene esclusivamente ingredienti di origine vegetale. Le cellule staminali di basilico contenute nello shampoo, formulato per donne e uomini, possono attivare le cellule staminali responsabili della produzione di capelli e coloranti, mentre la caffeina può contrastare la caduta dei capelli di origine androgenetica. Contiene solo ingredienti naturali, privi di sostanze chimiche sintetiche. Il tensioattivo che crea la schiuma è un tensioattivo a base di zuccheri vegetali. 
 
-
-
-
-
 **ILCSI** (Ilcsi Beautifying Herbs)
 
-Ilcsi è un marchio di cosmetici naturali a conduzione familiare, fondato nel 1958 e tramandato di generazione in generazione. I suoi prodotti sono creati con dedizione e responsabilità professionale, utilizzando esclusivamente componenti di origine vegetale e **ingredienti naturali con un contenuto di principi attivi eccezionalmente elevato**. La filosofia di base del marchio è che **la natura può fornire soluzioni efficaci e delicate**. Non è un semplice marchio di cosmetici, è un metodo di cura della pelle basato sulla **fitoterapia agraria**. Ilcsi lavora con **erbe, frutta e verdura fresche, raccolte a mano** in Ungheria e trasformate in polpa che viene lasciata maturare per mesi. Questo processo mantiene intatti gli enzimi e le vitamine. L’**acqua termale** ricca di minerali funge da veicolante naturale.
+Ilcsi è un marchio di cosmetici naturali a conduzione familiare, fondato nel 1958 e tramandato di generazione in generazione. I suoi prodotti sono creati con dedizione e responsabilità professionale, utilizzando esclusivamente componenti di origine vegetale e **ingredienti naturali con un contenuto di principi attivi eccezionalmente elevato**. 
+
+![](9.jpg)
+
+La filosofia di base del marchio è che **la natura può fornire soluzioni efficaci e delicate**. Non è un semplice marchio di cosmetici, è un metodo di cura della pelle basato sulla **fitoterapia agraria**. Ilcsi lavora con **erbe, frutta e verdura fresche, raccolte a mano** in Ungheria e trasformate in polpa che viene lasciata maturare per mesi. Questo processo mantiene intatti gli enzimi e le vitamine. L’**acqua termale** ricca di minerali funge da veicolante naturale.
  
+![](10.jpg)
+
 **Rosehip & Ectoin serum** è un siero che utilizza la  Rosa Canina, con i suoi preziosi ingredienti antiossidanti. Lenisce la pelle, mentre il suo contenuto di ectoina la protegge e la rigenera. Componente di oli essenziali naturali 99% di origine naturale del totale.
 
 
