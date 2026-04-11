@@ -6,7 +6,8 @@ tags: Beauty e Profumi,
 
 # Tendenze e novità nel settore Beauty
 
->**Cosmoprof Worldwide Bologna 2026** si conferma come l'epicentro globale dell'**innovazione cosmetica**, delineando un futuro in cui la bellezza è sempre più **personalizzata, tecnologica e sostenibile** _a cura di Maria Rosa Sirotti e Elena Braschi_
+>**Cosmoprof Worldwide Bologna 2026** si conferma come l'epicentro globale dell'**innovazione cosmetica**, delineando un futuro in cui la bellezza è sempre più **personalizzata, tecnologica e sostenibile** 
+_a cura di Maria Rosa Sirotti e Elena Braschi_
 ![](banner.jpg)
 
 Dalle analisi emerse durante la 57esima edizione, l'industria del Beauty si evolve verso un **approccio olistico che fonde benessere psicofisico e risultati scientifici**, superando il concetto tradizionale di cura della pelle. Ecco le principali **tendenze e novità** che stanno ridefinendo il settore:
