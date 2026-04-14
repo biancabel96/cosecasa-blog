@@ -80,7 +80,7 @@ Una serie di **aziende coreane** che abbiamo incontrato a Cosmoprof e di cui abb
 
 **AZH** (A to Z Hair): brand professionale per la cura dei capelli e dello styling. Sviluppato da esperti parrucchieri di Seoul, offre trattamenti intensivi e prodotti per lo styling che permettono di ottenere risultati da salone direttamente a casa.
 
-**VIDAN**: Soluzioni tricologiche avanzate per la rigenerazione dei capelli. Specializzato nella cura del cuoio capelluto con un approccio dermatologico. Utilizza ingredienti biotecnologici avanzati come PDRN ed esosomi per soluzioni anti-aging e rigeneranti per i capelli.
+**VIDAN**: Soluzioni tricologiche avanzate per la rigenerazione dei capelli. Specializzato nella cura del cuoio capelluto con un approccio dermatologico. Utilizza ingredienti biotecnologici avanzati come PDRN e peptidi per soluzioni anti-aging e rigeneranti per i capelli.
 
 ![](8.jpg)
 
