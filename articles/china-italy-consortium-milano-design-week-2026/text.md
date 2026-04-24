@@ -7,6 +7,7 @@ tags: Design, Accessori, Fashion, Tecnologia, eventi,
 # China-Italy Consortium - Milano Design Week 2026
 
 >**China-Italy Consortium** porta a **Tortona Rocks - MDW 2026** - un progetto che unisce il meglio delle realtà culturali e progettuali cinesi e italiane
+
 di _Maria Rosa Sirotti_
 ![](banner.jpg)
 
