@@ -1,7 +1,7 @@
 ---
 title: By Terry - Eccellenza francese del Make-Up
 date: 2026-04-26
-tags: Beauty & Profumi, Eventi,
+tags: Beauty e Profumi, Eventi,
 ---
 
 # By Terry - Eccellenza francese del Make-Up
