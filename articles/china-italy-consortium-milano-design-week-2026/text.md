@@ -1,7 +1,7 @@
 ---
 title: China-Italy Consortium - Milano Design Week 2026
 date: 2026-04-24
-tags: Design, Accessori, Fashion, Tecnologia, eventi,
+tags: Design, Accessori, Fashion, Tecnologia, Eventi,
 ---
 
 # China-Italy Consortium - Milano Design Week 2026
