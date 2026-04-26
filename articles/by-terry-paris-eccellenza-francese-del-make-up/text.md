@@ -30,7 +30,7 @@ Personalmente non amo i make-up troppo evidenti,   preferisco giocare con le sfu
 Questi sono i prodotti utilizzati:
 
 **Brightening CC Serum** - Un siero illuminante che combina skincare e make-up. Si fonde perfettamente con la pelle. Con estratto di Rosa Giapponese e di Rosa Tea per rigenerare, levigare e idratare.
-Disponibile qui: https://perfumology.it/products/brightening-cc-serum-siero-illuminante
+https://perfumology.it/products/brightening-cc-serum-siero-illuminante
 
 **Starlight Glow CC Highlighter** - Una formula rivoluzionaria brevettata. La sua texture setosa e cremosa si fonde sulla pelle, combinando l'intensità di un illuminante liquido con la leggerezza di una polvere. Contiene olio emolliente e pigmenti iridescenti.
 
