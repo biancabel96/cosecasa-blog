@@ -1,10 +1,10 @@
 ---
 title: BY TERRY PARIS - Eccellenza francese del Make-Up
 date: 2026-04-26
-tags: Beauty & Profumi, Eventi,
+tags: Beauty e Profumi, Eventi,
 ---
 
-# BY TERRY PARIS - Eccellenza francese del Make-Up
+# By Terry - Eccellenza francese del Make-Up
 
 >Un brand che ha **ridefinito la cosmetica di lusso** e le esperienze che questa doveva offrire, con una visione della **bellezza completamente innovativa**
 
