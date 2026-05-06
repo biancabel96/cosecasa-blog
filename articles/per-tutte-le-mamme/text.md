@@ -87,6 +87,12 @@ tags: Accessori, Tavola e Cucina, Beauty e Profumi, Regali, Food & Beverage, Tec
 
 ![](12.jpg)
 
+**Derma Lifting Serum - Ehad** siero concentrato che penetra delicatamente nella pelle garantendo un assorbimento completo. Arricchito da un esclusivo complesso di mucina marina brevettato, restituisce elasticità e idratazione profonda. Il suo innovativo sistema peptidico agisce secondo il principio del botox naturale, attenuando visibilmente le rughe d'espressione e i segni di invecchiamento più marcati, per una pelle visibilmente più giovane e rigenerata.
+
+**The Vita-A Retinol Shot Tightening Serum - Celimax** trattamento anti-età con 0,1 % di Retinolo puro, potenziato da un complesso di 9 Peptidi, micro-spore A Shot™ (162 000 spicule), Pantenolo, Vitamina E e Allantoina: favorisce il rinnovamento cutaneo, migliora tono, texture, elasticità, le rughe e pori diltatati causati da lassità cutanea appariranno meno evidenti.
+
+![](15.jpg)
+
 **Baume de Rose Lip Care - By Terry** un balsamo labbra intensamente nutriente. La sua formula iconica, ricca di vitamine, combina proprietà idratanti, rigeneranti e protettive. Al cuore del trattamento, una preziosa miscela concentrata a base di cera essenziale di rosa, nota per la sua azione lenitiva e riparatrice, è ideale per contrastare secchezza e screpolature. Arricchito con burro di karité nutriente, vitamina E antiossidante, ceramidi e microsfere di acido ialuronico. Disponibile qui https://perfumology.it/products/baume-de-rose-balsamo-labbra-1
 
 **Ciroa Strawberry - Euracom** gel doccia che trasforma la doccia quotidiana in un'autentica evasione fruttata grazie a una schiuma ricca e rinfrescante che deterge senza seccare la cute. Formulata per esfoliare delicatamente, levigare e illuminare, questa linea è ricca di antiossidanti che lavorano per idratare e ammorbidire in profondità, lasciando la pelle visibilmente radiosa.
