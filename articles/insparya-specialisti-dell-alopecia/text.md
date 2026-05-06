@@ -56,6 +56,6 @@ Parallelamente, il Gruppo Insparya propone una routine quotidiana con una **line
 
 _Ph. Credits: Maria Rosa Sirotti_
 
-**INSPARYA HAIR MEDICAL CLINIC ITALY **
+**INSPARYA HAIR MEDICAL CLINIC ITALY**
 Via Fernanda Wittgens, 2 - 20123 Milano (MI) 
 
