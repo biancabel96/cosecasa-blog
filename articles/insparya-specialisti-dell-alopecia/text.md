@@ -9,7 +9,7 @@ tags: Tricologia, Chirurgia Estetica,
 >Il **Gruppo Insparya è tra i leader europei** specializzati nella diagnosi, nel trattamento e nella ricerca scientifica **sull'alopecia** 
 ![](banner.jpg)
 
-Fondato da **Paulo Ramos e dalla società CR7 SA**, Insparya ha oltre **16 anni di esperienza e più di 80.000 pazienti** in Portogallo, Spagna, Italia, Arabia Saudita e Oman. Con un proprio dipartimento di ricerca biomedica e tecnologica (**Insparya Science and Clinical Institute**) e un centro di formazione per le sue tecniche esclusive, investe ogni anno oltre 2 milioni di euro. 
+Fondato da **Paulo Ramos e dalla società CR7 SA**, Insparya ha oltre **17 anni di esperienza e più di 80.000 pazienti** in Portogallo, Spagna, Italia, Arabia Saudita e Oman. Con un proprio dipartimento di ricerca biomedica e tecnologica (**Insparya Science and Clinical Institute**) e un centro di formazione per le sue tecniche esclusive, investe ogni anno oltre 2 milioni di euro. 
 
 ![](1.jpg)
 
