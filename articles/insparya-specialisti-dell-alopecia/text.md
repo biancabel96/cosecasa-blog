@@ -6,10 +6,10 @@ tags: Tricologia, Chirurgia Estetica,
 
 # Insparya – specialisti dell’Alopecia
 
->Il **Gruppo Insparya è leader europeo** specializzato nella diagnosi, nel trattamento e nella ricerca scientifica **sull'alopecia** 
+>Il **Gruppo Insparya è tra i leader europei** specializzati nella diagnosi, nel trattamento e nella ricerca scientifica **sull'alopecia** 
 ![](banner.jpg)
 
-Fondato da **Paulo Ramos e dalla società CR7 SA**, Insparya ha oltre **16 anni di esperienza e più di 70.000 pazienti** in Portogallo, Spagna, Italia, Arabia Saudita e Oman. Con un proprio dipartimento di ricerca biomedica e tecnologica (**Insparya Science and Clinical Institute**) e un centro di formazione per le sue tecniche esclusive, investe ogni anno oltre 2 milioni di euro. 
+Fondato da **Paulo Ramos e dalla società CR7 SA**, Insparya ha oltre **16 anni di esperienza e più di 80.000 pazienti** in Portogallo, Spagna, Italia, Arabia Saudita e Oman. Con un proprio dipartimento di ricerca biomedica e tecnologica (**Insparya Science and Clinical Institute**) e un centro di formazione per le sue tecniche esclusive, investe ogni anno oltre 2 milioni di euro. 
 
 ![](1.jpg)
 
@@ -18,7 +18,7 @@ Il **Dott. Carlos Portinha, Direttore e Coordinatore Clinico del Gruppo**, guida
 
 ![](6.jpg)
 
-Nel centro **Insparya di Milano**, in Via Wittgens 2, si svolgono ogni giorno circa 150 visite mediche e una decina di trapianti. Grazie a **Alessandro Tenace - Sales & Operations Coordinator** di Insparya, ho visitato il centro ottenendo tutte le informazioni. Ho anche eseguito la prima **visita gratuita con analisi del capello**, condotta dalla **Dott.ssa Mirna Victoria Gazzera**, in cui si verificano le esigenze del cliente e l’eventuale possibilità di trapianto, se richiesto. 
+Nel centro **Insparya di Milano**, in Via Wittgens 2, si svolgono ogni giorno circa 150 visite mediche e una decina di trapianti. Grazie a **Alessandro Tenace - Sales & Operations Coordinator** di Insparya, ho visitato il centro ottenendo tutte le informazioni. Ho anche eseguito la prima **visita preliminare con analisi del capello**, condotta dalla **Dott.ssa Mirna Victoria Gazzera**, in cui si verificano le esigenze del cliente e l’eventuale possibilità di trapianto, se richiesto. 
 
 ![](5.jpg)
 
