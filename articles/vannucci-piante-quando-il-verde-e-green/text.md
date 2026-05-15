@@ -7,6 +7,7 @@ tags: Vivaismo, Piante e Fiori, Giardino,
 # Vannucci Piante – quando il Verde è “green”
 
 >**Vannucci Piante**, eccellenza italiana del Distretto Vivaistico di Pistoia, produce **piante ornamentali con qualità e sostenibilità**
+
 di _Maria Rosa Sirotti_
 ![](banner.jpg)
 
@@ -29,11 +30,8 @@ Ogni anno compie un **ciclo completo delle piante a catalogo**, con l’aggiunta
 L'azienda è realmente impegnata in 4 punti focali:
 
 **Riduzione dell'Impatto**: il processo di crescita e sostituzione delle piante cerca di inquinare meno rispetto ai metodi tradizionali
-
 **Sostenibilità**: uso responsabile delle risorse con riciclo dell'acqua piovana e da irrigazione 
-
 **Economia Circolare**: a partire dal 2024, i vasi sono prodotti con plastica riciclata, riutilizzati o smaltiti in modo ecologico
-
 **Stile di Vita**: promuovere e sostenere il desiderio di godere di spazi verdi a livello privato e pubblico
 
 ![](5.jpg)
@@ -59,7 +57,11 @@ Tra i progetti di prestigio a livello mondiale, Vannucci Piante ha contribuito a
 _Ph. Credits: Maria Rosa Sirotti_
 
 **Vannucci Piante**
+
 Via Moreno Vannucci (già Via della Dogaia), 
+
 110 51039 Quarrata (loc. Piuvica)
+
 Pistoia _ Italia
+
 **www.vannuccipiante.it**
