@@ -30,8 +30,11 @@ Ogni anno compie un **ciclo completo delle piante a catalogo**, con l’aggiunta
 L'azienda è realmente impegnata in 4 punti focali:
 
 **Riduzione dell'Impatto**: il processo di crescita e sostituzione delle piante cerca di inquinare meno rispetto ai metodi tradizionali
+
 **Sostenibilità**: uso responsabile delle risorse con riciclo dell'acqua piovana e da irrigazione 
+
 **Economia Circolare**: a partire dal 2024, i vasi sono prodotti con plastica riciclata, riutilizzati o smaltiti in modo ecologico
+
 **Stile di Vita**: promuovere e sostenere il desiderio di godere di spazi verdi a livello privato e pubblico
 
 ![](5.jpg)
