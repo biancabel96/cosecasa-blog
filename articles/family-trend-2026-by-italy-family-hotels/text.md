@@ -7,6 +7,9 @@ tags: Hospitality, Turismo
 # Family trend 2026  by Italy Family Hotels 
 
 >**Viaggi, benessere e nuove destinazioni**: presentati i trend 2026 che stanno ridefinendo **la vacanza in famiglia** secondo Italy Family Hotels
+
+di _Maria Rosa Sirotti_
+
 ![](banner.jpg)
 
 **Family trend 2026 è un’indagine di mercato** sui family travel condotta da Hospitality Marketing, agenzia di marketing che coordina e gestisce le attività di **Italy Family Hotels**, insieme a Area38, che gestisce la strategia web del gruppo.
