@@ -6,7 +6,9 @@ tags: Food & Beverage,
 
 # Iolei Winery – il Cannonau contemporaneo
 
->A **Oliena in Sardegna**, una piccola cantina di famiglia produce **vini autoctoni con sensibilità moderna**  
+>A **Oliena in Sardegna**, una piccola cantina di famiglia produce **vini autoctoni con sensibilità moderna** 
+
+di _Maria Rosa Sirotti_
 ![](banner.jpg)
 
 Iolei è una piccola **realtà familiare situata a Oliena** (Nuoro), nel cuore di una delle zone più vocate per la produzione del **Cannonau di Sardegna**, la sottozona del **Nepente di Oliena**. Dal 2015 l’enologo **Antonio Puddu**, la moglie Simona e le sorelle Chiara e Sara, mamma Luisella e papà Salvatore coltivano l’amore per la Sardegna e per il vino figlio di queste terre. 
