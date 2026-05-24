@@ -1,6 +1,6 @@
 ---
 title: Nausika Group – il Lago di Como più esclusivo e autentico
-date: 2026-04-02
+date: 2026-05-24
 tags: Yachting, Imbarcazioni, Hospitality, Turismo, Sport, Ristorazione
 ---
 
