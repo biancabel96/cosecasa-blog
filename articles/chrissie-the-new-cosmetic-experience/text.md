@@ -43,10 +43,15 @@ Le materie prime sono standardizzate e scelte in base alla loro qualità sicurez
 Grazie all’ottimizzazione di texture e formulazioni, la **skincare risulta semplificata** e intuitiva:
 
 **•**	Ogni famiglia di prodotti è caratterizzata da un colore;
+
 **•**	Il nome della famiglia ne indica il campo d’azione;
+
 **•**	Il nome del prodotto ne suggerisce le peculiarità;
+
 **•**	In ogni prodotto sono indicati i 3 benefici principali;
+
 **•**	La descrizione prodotto è strutturata per guidare le scelte del consumatore;
+
 **•**	I simboli sul pack secondario identificano il tipo di pelle, la frequenza e modalità di utilizzo
 
 _Ph. Credits: Maria Rosa Sirotti_
