@@ -7,6 +7,8 @@ tags: Yachting, Imbarcazioni, Hospitality, Turismo, Sport, Ristorazione
 # Nausika Group – il Lago di Como più esclusivo e autentico
 
 >Nausika Group è un ecosistema integrato che unisce **marina, servizi nautici e ospitalità di alta gamma** nel cuore dell'Alto Lario del **Lago di Como** e in **Costa Smeralda**
+
+_di Maria Rosa Sirotti_
 ![](banner.jpg)
 
 Un gruppo imprenditoriale italiano oggi attivo nei **servizi nautici, marina & storage management, servizi di noleggio e vendita di imbarcazioni**, oltre **all'ospitalità di alta gamma**. 
