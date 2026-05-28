@@ -8,7 +8,7 @@ tags: Beauty & Profumi, Hair & Scalp, Estate
 
 >**Kult Milano** ha ospitato l’evento di presentazione della nuova linea **Solar di System Professional** e **Beauty Summer Essentials**, in collaborazione con **RoC®**
 
-_di Maria Rosa sirotti_
+_di Maria Rosa Sirotti_
 ![](banner.jpg)
 
 Il sole è energia: proprio da questa visione nasce la **collezione Solar pensata da System Professional** per proteggere capelli e cuoio capelluto dagli effetti del calore e dell’esposizione solare, mantenendo idratazione, luminosità e benessere durante tutta l’estate.
@@ -44,7 +44,7 @@ _Re-idratazione estiva_
 
 Idrata dolcemente i capelli e la pelle, rimuovendo schermi solari, sale e residui di cloro su pelle e capelli. Contiene HelioRestore Complex e LipidCode Complex, glicerina, aminoacido istidina, DL-Panthenolo e polimeri cationici per il ripristino ** delle parti rovinate dei capelli.
 	
-SOLAR HYDRO-REPAIR CONDITIONER** 
+**SOLAR HYDRO-REPAIR CONDITIONER** 
 _Crema estiva ricostituente_
 
 Il balsamo, con HelioRestore complex, aiuta a riparare i danni solari e ripristina l’idratazione persa a causa del sale e dell’acqua clorata. Aumenta all’istante la pettinabilità.
@@ -61,7 +61,7 @@ Con il conditioner: miscelare fino a 5 dosi di olio col conditioner solare, per 
 
 ![](5.jpg)
 
-**System Professional ha presentato anche Beauty Summer Essentials**, un Kit Solar Viso e Capelli **in collaborazione con RoC®**. Un’iniziativa esclusiva nei saloni aderenti per l’estate 2026, dedicata alla **cura completa di capelli e pelle** per garantire protezione, idratazione e bellezza a 360° e poter vivere il sole senza compromessi.
+**System Professional** ha presentato anche **BEAUTY SUMMER ESSENTIALS**, un Kit Solar Viso e Capelli **in collaborazione con RoC®**. Un’iniziativa esclusiva nei saloni aderenti per l’estate 2026, dedicata alla **cura completa di capelli e pelle** per garantire protezione, idratazione e bellezza a 360° e poter vivere il sole senza compromessi.
 
 All’interno di una **elegante pochette** beauty in eco-pelle firmata System Professional, la **crema viso bestseller SPF 50 di RoC®** e il **Solar Sun Oil di System Professional** compongono un beauty set essenziale e sofisticato, perfetto da portare con sé in vacanza come in città.
 
