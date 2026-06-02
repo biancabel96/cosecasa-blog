@@ -1,7 +1,7 @@
 ---
 title: The Solar Experience - System Professional & Kult
 date: 2026-05-28
-tags: Beauty & Profumi, Hair & Scalp, Estate
+tags: Beauty e Profumi, Hair & Scalp, Estate
 ---
 
 # The Solar Experience - System Professional & Kult 
