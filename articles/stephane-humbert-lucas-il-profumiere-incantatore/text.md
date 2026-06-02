@@ -6,7 +6,7 @@ tags: Beauty e Profumi, Eventi,
 
 # Stéphane Humbert Lucas – Il profumiere incantatore 
 
->Il profumiere sinestetico svela la**Snake Collection** e la **777 Collection** in una serata d'élite tra giochi di luce, miti ancestrali e sentori estivi
+>Il profumiere sinestetico svela la **Snake Collection** e la **777 Collection** in una serata d'élite tra giochi di luce, miti ancestrali e sentori estivi
 
 _di Maria Rosa sirotti_
 ![](banner.jpg)
