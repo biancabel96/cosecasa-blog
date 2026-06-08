@@ -21,7 +21,7 @@ Il claim di questa edizione, **Go Through**, si rivolge all'abitazione, che non 
 
 ![](8.jpg)
 
-Brand come **Speediance**, uniscono performance tecniche e ricercato design.**Jamie Li**, Bd Director, risponde alla nostra domanda su come i nuovi macchinari si integrino con soluzioni modulari salvaspazio senza rumori e vibrazioni nelle abitazioni, mostrandoci in anteprima **Gym Monster 2**: “_Si tratta di una stazione multifunzionale intelligente, una palestra digitale “all-in-one” con una resistenza magnetica gestita da motori digitali. Il tutto in pochissimo spazio, 0,25 mq chiuso e 0,84 mq aperto,senza fissaggio a parete. Algoritmi di intelligenza artificiale creano schede e piani di allenamento su misura, suggerendo in tempo reale anche le correzioni posturali necessarie_”.
+Brand come **Speediance**, uniscono performance tecniche e ricercato design. **Jamie Li**, Bd Director, risponde alla nostra domanda su come i nuovi macchinari si integrino con soluzioni modulari salvaspazio senza rumori e vibrazioni nelle abitazioni, mostrandoci in anteprima **Gym Monster 2**: “_Si tratta di una stazione multifunzionale intelligente, una palestra digitale “all-in-one” con una resistenza magnetica gestita da motori digitali. Il tutto in pochissimo spazio, 0,25 mq chiuso e 0,84 mq aperto,senza fissaggio a parete. Algoritmi di intelligenza artificiale creano schede e piani di allenamento su misura, suggerendo in tempo reale anche le correzioni posturali necessarie_”.
 
 **Abbigliamento sportivo: tessuti tecnici intelligenti e lifestyle**
 
