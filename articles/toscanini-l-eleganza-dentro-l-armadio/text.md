@@ -8,7 +8,7 @@ tags: Accessori, Arredo e complementi, Design,
 
 >Da oltre un secolo Toscanini interpreta **l’arte di appendere** con materiali, lavorazioni e personalizzazione, rendendo i portabiti parte integrante del progetto d’interni
 
-_di Maria Rosa sirotti_
+_di Maria Rosa Sirotti_
 ![](banner.jpg)
 
 La storia di Toscanini inizia nel **1920 a Isolella in Valsesia**, quando Giuseppe Toscanini avvia un commercio di legnami. Dopo la guerra, il figlio Ettore si concentra sulla **produzione di portabiti in legno**. È tra i primi a pensare all’industrializzazione di questi prodotti e a gettare così le basi del futuro del brand Toscanini.
