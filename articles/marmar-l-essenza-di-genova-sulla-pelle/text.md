@@ -8,7 +8,7 @@ tags: Beauty e Profumi,
 
 >**Quattro fragranze nate a Genova** che parlano della città: luoghi, profumi, colori e ricordi
 
-_di Maria Rosa sirotti_
+_di Maria Rosa Sirotti_
 ![](banner.jpg)
 
 Nascono dal vento e portano con loro i segreti di Genova, una città che vive e respira col mare. Come instantanee sulla pelle, da scoprire una alla volta: è questa l'anima dei profumi di **Filippo Fornasini, fondatore di MarMar** e ideatore di una collezione  pienamente identitaria, sia nelle piramidi olfattive, sia nella scelta dei colori, dei materiali, delle grafiche. Nulla è lasciato al caso. Filippo è fortemente determinato a **reinterpretare l'anima olfattiva di Genova** con il suo brand, per risvegliare il mare che ognuno porta dentro. 
