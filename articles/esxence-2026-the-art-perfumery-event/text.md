@@ -13,8 +13,6 @@ _di Maria Rosa sirotti_
 
 **Esxence**, l’appuntamento di punta della profumeria artistica a livello mondiale, ha proposto per il 2026 il concept **Sensing The World**, esplorando le nuove frontiere dell’**olfatto come ponte tra emozione e memoria**. Un profumo non descrive un ricordo ma lo risveglia con le emozioni e il peso del momento vissuto. La missione di Esxence è **diffondere la cultura olfattiva** e aiutare le persone a scegliere la propria **fragranza distintiva**.
 
-Espositori e visitatori da tanti Paesi del mondo hanno dato vita ad una **mappa globale della profumeria artistica di ricerca** che contribuisce al 65% del valore totale del mercato fragranze. Un comparto capace di resistere ai cambiamenti economici e alle tensioni internazionali, segnalando una crescita sostenuta anche in **Cina** e nei mercati emergenti di **Corea del Sud, Vietnam e Indonesia**.
-
 _Visitando Esxence 2026, ho potuto identificare chiaramente i_ **trend attuali**: _la vocazione_ **Gourmant** _che si era cominciata a vedere nel 2025 è esplosa quest’anno con un tripudio di frutti dolci come_ **banana, ciliegia, fico e fragola** _si sono ulteriormente addolciti con aggiunta di_ **burro, panna e vaniglia**. _Si sono poi uniti:_ **popcorn, caramello, burro di arachidi, caffè, cola, riso, mandorle, pepe e zafferano**. 
 **Limone e agrumi** _hanno stemperato spesso le note dolciastre esagerate mentre, dall’estremo Oriente, sono arrivati_ **osmanthus e matcha**, _che ha invaso anche il mondo del Food & Beverage_. 
 _Una dinamica particolare riguarda l’_**oud**: _sempre meno presente nei profumi che arrivano dal Medio Oriente e che tendono ad accontentare maggiormente i gusti occidentali, ma sempre più presente nelle fragranze europee, che lo utilizzano anche per profumazioni estive_.
@@ -143,9 +141,9 @@ Il marchio persegue con coraggio la diversità culturale producendo fragranze un
 
 Maison inaugura un nuovo capitolo della propria storia olfattiva con **Les Elixirs**. Reinterpreta due fragranze emblematiche in una forma più intensa: grazie a concentrazioni più elevate di essenza profumata, ogni nota si espande con maggiore potenza e profondità, mentre gli accordi si arricchiscono. Anche il design riflette questa evoluzione: un flacone in vetro impreziosito da un’etichetta metallica scolpita che riflette la luce come un gioiello inciso. Sul retro, un delicato ramage si rivela come un dettaglio prezioso e discreto. Il tutto completato da tocchi dorati e un packaging concepito come uno scrigno, decorato con motivi ispirati all’arte imperiale.
 
-Plume Impression 
+**Plume Impression**
  
-Plume Impression cattura con maestria lo spirito della piuma: delicata ma resistente, raffinata ma espressiva. Ogni fragranza è attentamente composta per riflettere una personalità audace con una discreta sicurezza, mai invadente, ma capace di lasciare sempre un'impressione sofisticata e duratura. Love no Shame incarna passione e intensità, fondendo rose rosse, ciliegia e cioccolato con crema di fragole montata, cannella e mandorle dolci. L'oud affumicato aggiunge un tocco di mistero, completando la calda e muschiata base di sandalo. Un accattivante contrasto di sensualità e profondità, che persiste a lungo, evocando un amore puro in un profumo indimenticabile.
+Cattura con maestria lo spirito della piuma: delicata ma resistente, raffinata ma espressiva. Ogni fragranza è attentamente composta per riflettere una personalità audace con una discreta sicurezza, mai invadente, ma capace di lasciare sempre un'impressione sofisticata e duratura. **Love no Shame** incarna passione e intensità, fondendo rose rosse, ciliegia e cioccolato con crema di fragole montata, cannella e mandorle dolci. L'oud affumicato aggiunge un tocco di mistero, completando la calda e muschiata base di sandalo. Un accattivante contrasto di sensualità e profondità, che persiste a lungo, evocando un amore puro in un profumo indimenticabile.
 
 **EXPERIENCE LAB - Beauty Nostalgia**
 
