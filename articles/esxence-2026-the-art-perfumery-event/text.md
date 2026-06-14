@@ -8,7 +8,7 @@ tags: Beauty e Profumi, Eventi,
 
 >Si è svolta a Milano la sedicesima edizione dell’evento di riferimento a livello internazionale dedicato alla **profumeria artistica di alta gamma**
 
-_di Maria Rosa sirotti_
+_di Maria Rosa Sirotti_
 ![](banner.jpg)
 
 **Esxence**, l’appuntamento di punta della profumeria artistica a livello mondiale, ha proposto per il 2026 il concept **Sensing The World**, esplorando le nuove frontiere dell’**olfatto come ponte tra emozione e memoria**. Un profumo non descrive un ricordo ma lo risveglia con le emozioni e il peso del momento vissuto. La missione di Esxence è **diffondere la cultura olfattiva** e aiutare le persone a scegliere la propria **fragranza distintiva**.
