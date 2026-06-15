@@ -1,6 +1,6 @@
 ---
 title: Esxence 2026 – The Art Perfumery Event
-date: 2026-06-13
+date: 2026-06-14
 tags: Beauty e Profumi, Eventi,
 ---
 
