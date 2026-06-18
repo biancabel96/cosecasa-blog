@@ -55,7 +55,7 @@ _di Maria Rosa Sirotti_
 
 **Stem - Draga & Aurel** vasi scultura. La serie nasce dai campioni sviluppati per esplorare le possibilità espressive della lucite — la resina acrilica utilizzata in alcuni pezzi della collezione Transparency Matters — attraverso uno studio su trasparenze, stratificazioni cromatiche, rifrazioni e interazioni tra luce e materia.
 
-**Eccentrico - Kilim** collezione ceramica in gres porcellanato che reinterpreta in chiave ceramica l’estetica dei tappeti kilim e delle zellige della tradizione araba. Un alfabeto ceramico modulare, disponibile in due formati (11,5×11,5 cm e 5,7×11,5 cm) e in nove varianti cromatiche, per infinite combinazioni. Doppia finitura matt e lucida.
+**Kilim - Eccentrico** collezione ceramica in gres porcellanato che reinterpreta in chiave ceramica l’estetica dei tappeti kilim e delle zellige della tradizione araba. Un alfabeto ceramico modulare, disponibile in due formati (11,5×11,5 cm e 5,7×11,5 cm) e in nove varianti cromatiche, per infinite combinazioni. Doppia finitura matt e lucida.
 
 ![](8.jpg)
 
@@ -92,7 +92,7 @@ per la tavola.
 
 **Matteo – Mario Luca Giusti** è un originale e giocoso set di 6 segnaposto magnetici per arricchire la tavola con personalità e leggerezza. Realizzati in melamina di alta qualità, diventano ideali sia per l’utilizzo quotidiano sia per tavole conviviali più scenografiche.  
 
-**Cedarwood & Ocean Mossu -Woodwick®** candela con una fragranza fresca e pulita che unisce legno di cedro, muschio oceanico e minerali marini, evocando una rigogliosa foresta costiera. Esperienza multisensoriale dello stoppino in legno, che ricrea il caratteristico suono scoppiettante del fuoco.
+**Cedarwood & Ocean Mossu - Woodwick®** candela con una fragranza fresca e pulita che unisce legno di cedro, muschio oceanico e minerali marini, evocando una rigogliosa foresta costiera. Esperienza multisensoriale dello stoppino in legno, che ricrea il caratteristico suono scoppiettante del fuoco.
 
 ![](14.jpg)
 
