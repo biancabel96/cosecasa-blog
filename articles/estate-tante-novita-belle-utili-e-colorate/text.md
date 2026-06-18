@@ -23,7 +23,7 @@ _di Maria Rosa Sirotti_
 
 ![](5.jpg)
 
-**Andria - Ultra Limited **occhiali da vista in un’esplosione di colore e design con una forma rotonda unisex, perfetti per chi desidera distinguersi. Ogni occhiale è realizzato a mano con 12 lastre di acetato di cellulosa, trattate in oltre 41 giorni di lavorazione. La cornice monocolore in acetato incornicia gli incollaggi con eleganza, creando un accessorio esclusivo. Ogni occhiale è unico.
+**Andria - Ultra Limited** occhiali da vista in un’esplosione di colore e design con una forma rotonda unisex, perfetti per chi desidera distinguersi. Ogni occhiale è realizzato a mano con 12 lastre di acetato di cellulosa, trattate in oltre 41 giorni di lavorazione. La cornice monocolore in acetato incornicia gli incollaggi con eleganza, creando un accessorio esclusivo. Ogni occhiale è unico.
 
 **Esperluette Bold - Morel** edizione Limitata in collaborazione con Constance Guisset. Curve e forme arrotondate, tratti spessi e sottili ispirati alla calligrafia. Concepita come un pezzo da collezione,  un'opera d'arte da indossare. La linea sembra essere stata tracciata come un ciclo infinito, che non smette mai di condurci in un viaggio attraverso gli occhi.
 
