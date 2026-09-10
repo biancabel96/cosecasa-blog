@@ -1,7 +1,7 @@
 ---
 title: Gisou x Sephora Gloss Café
 date: 2026-09-11
-tags: Hair & Scalp, Beauty e Profumi,
+tags: Hair & Scalp,Beauty e Profumi,
 ---
 
 # Gisou x Sephora Gloss Café 
