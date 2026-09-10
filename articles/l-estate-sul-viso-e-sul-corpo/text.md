@@ -1,7 +1,7 @@
 ---
 title: L’Estate sul viso e sul corpo
 date: 2026-06-20
-tags: Beaty e Profumi, Estate, Solari,
+tags: Beauty e Profumi, Estate, Solari,
 ---
 
 # L’Estate sul viso e sul corpo
