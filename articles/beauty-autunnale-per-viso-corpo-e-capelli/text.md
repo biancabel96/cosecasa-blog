@@ -84,7 +84,7 @@ Con il rientro dalle vacanze dopo settimane di sole, salsedine e cloro, **pelle,
 
 **Saponaria e Olio Di Vinaccioli - Balsamo struccante** di **Bottega Verde Toscana**. Con il 93% di ingredienti di origine naturale e una formula vegana, questo balsamo struccante deterge delicatamente il viso trasformandosi, con il massaggio, in un olio setoso che scioglie efficacemente trucco e impurità. Con oli e burri vegetali ed estratto di Saponaria di Tenuta Bottega Verde, di origine toscana, che assicura una detersione delicata. Completa la formula l’olio di Vinaccioli. 
 
-**Purity Drop - Pure & Dewy** di ****Limara** un siero multi-attivo che combina ricerca cosmetica e semplicità formulativa attraverso ingredienti che sostengono la barriera cutanea, migliorano l'uniformità dell'incarnato e donano un aspetto fresco, luminoso e naturalmente vitale. Gli acidi azelaico e mandelico purificano delicatamente la pelle rispettando la barriera cutanea. Contiene niacinamide (vitamina B3), aloe, estratti di mirtillo e di vite palla, vitamina C.
+**Purity Drop - Pure & Dewy** di **Limara** un siero multi-attivo che combina ricerca cosmetica e semplicità formulativa attraverso ingredienti che sostengono la barriera cutanea, migliorano l'uniformità dell'incarnato e donano un aspetto fresco, luminoso e naturalmente vitale. Gli acidi azelaico e mandelico purificano delicatamente la pelle rispettando la barriera cutanea. Contiene niacinamide (vitamina B3), aloe, estratti di mirtillo e di vite palla, vitamina C.
 
 ![](1.jpg)
 
