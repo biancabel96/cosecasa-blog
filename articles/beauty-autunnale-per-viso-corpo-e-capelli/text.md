@@ -74,13 +74,13 @@ Con il rientro dalle vacanze dopo settimane di sole, salsedine e cloro, **pelle,
 
 **Clay** di **Perfumer H** è Ispirato dalla terra e dalla vita che sostiene. Creato dalla fondatrice e profumiera Lyn Harris, la fragranza è una esplorazione del paesaggio, della materialità e della luce. Rappresenta uno degli elementi più fondamentali della terra: una fonte di vita e la base da cui emergono molte delle materie prime. Fiore d'arancio. Mandarino. Sandalo. Legno di cedro. Ginepro. Catrame di betulla. Muschio. Cenere bruciata.
 
-![](11.jpg)
+![](14.jpg)
 
 **Super Shine Lip Serum Infused with Peptides** di **Così** Lip Serum dalla formula priva di acqua e dalla texture leggera e vellutata, che si applica facilmente sulle labbra per una sensazione setosa e confortevole, senza appesantire. Brillantezza ultra-gloss effetto specchio per esaltare la bellezza naturale delle tue labbra. Arricchito con profumo di yogurt per un’esperienza sensoriale piacevole. 
 
 **Crema Nutri-Age Rigenerante Pro-Resilienza** di **Dibi Milano** con filtri Uv Crema prebiotica nutriente con filtri Uv, rigenerante e anti-ossidante. Appartiene alla linea Procellular 365 formulata scientificamente per la ri-generazione e ri-codifica del reticolo cutaneo. Testata anche pre e post trattamenti di medicina estetica. Contiene pre-dibiotic, un potente prebiotico nutriente selettivo per la pelle; matrichine, peptidi della giovinezza; vitamina C, dall'azione anti-età e anti-ossidante.
 
-![](14.jpg)
+![](11.jpg)
 
 **Elsewhere** di **Amouage** è un’Essence de Parfum al 30% invecchiata per un anno in botti di rovere e scaglie di sandalo. Una creazione legnosa, speziata e ambrata che traduce l’epica storia di magia e riscatto del marinaio Simbad in un percorso olfattivo. In apertura, note di miele, albicocca e mango con tocchi di cardamomo, zenzero e mandarino. Nel cuore, tè nero e davana a un avvolgente accordo cremoso di cappuccino. Al fondo, la dolcezza affumicata di fava tonka e vaniglia unita al legno di cedro e alle sfumature terrose di labdano, cipriolo, vetiver e patchouli.
 
