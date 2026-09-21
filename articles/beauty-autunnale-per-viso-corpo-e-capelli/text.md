@@ -4,14 +4,14 @@ date: 2026-09-15
 tags: Beauty e Profumi, Autunno,
 ---
 
-# Beauty autunnale per viso, corpo e capelli
+# Beauty autunnale per viso, corpo e capelli 
 
->È il momento di restituire **luminosità, elasticità e morbidezza** attraverso azioni e prodotti mirati per **viso, corpo e capelli**
+>È il momento di restituire **luminosità, elasticità e morbidezza** attraverso azioni e prodotti mirati per **viso e corpo**
 
 _di Maria Rosa Sirotti_
 ![](banner.jpg)
 
-Con il rientro dalle vacanze dopo settimane di sole, salsedine e cloro, **pelle, labbra e capelli** possono apparire più spenti e secchi. Occorre restituire **luminosità, elasticità e morbidezza** attraverso azioni e **prodotti mirati**. Esfoliazioni viso e corpo, creme idratanti, schiarenti e anti-rughe, detergenti delicati ma attivi, oltre a profumi che ci ricordino gli entusiasmi dell’estate o che ci accompagnino al rientro in città.Perché il modo migliore per affrontare settembre è ritrovare il benessere.
+Con il rientro dalle vacanze dopo settimane di sole, salsedine e cloro, **viso, labbra e corpo** possono apparire più spenti e secchi. Occorre restituire **luminosità, elasticità e morbidezza** attraverso azioni e **prodotti mirati**. Esfoliazioni viso e corpo, creme idratanti, schiarenti e anti-rughe, detergenti delicati ma attivi, oltre a profumi che ci ricordino gli entusiasmi dell’estate o che ci accompagnino al rientro in città.Perché il modo migliore per affrontare settembre è ritrovare il benessere.
 
 ![](4.jpg)
 
@@ -98,6 +98,10 @@ Con il rientro dalle vacanze dopo settimane di sole, salsedine e cloro, **pelle,
 
 **Body Scrub** di **Philip Martin’s** trattamento dalla texture morbida e soffice ad azione emolliente formulato con granuli di nocciolo di olivo mediterraneo che rotolano sulla pelle del corpo, offrendo una esfoliazione efficace, e un mix di preziosi oli naturali: olio di riso, olio di argan bio e olio di mandorle dolci, dalle proprietà idratanti, nutrienti ed elasticizzanti. Lascia la pelle pulita, fresca, luminosa, più liscia e morbida.
 
+![](15.jpg)
 
+**Siero illuminante correzione assoluta** di **gli elementi** Siero anti-macchie preziosamente dry-touch, ad intensa azione schiarente. Dalla freschezza impalpabile, idrata e sublima la pelle con un finish mat istantaneo e molto luminoso, minimizza le imperfezioni puntuali (segni scuri da UV, invecchiamento, post-acne) e illumina il colorito come in una pelle più giovane. 
+
+**Lipofango Snellente Modellante** di **Terme di Riolo** modella il corpo grazie al suo complesso “Argilla Ventilata, Alghe, Cola e Centella Asiatica” in acqua Margherita. Per gli inestetismi della cellulite e le adiposità localizzate. Principi attivi: alghe – mucillagine d’alga e acqua marina,  argilla, cola, acqua termale Margherita che contiene numerosi sali minerali. Purifica dalle tossine donando ossigenazione alla pelle.
 
 
