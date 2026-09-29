@@ -61,18 +61,17 @@ Con il rientro dalle vacanze dopo settimane di sole, salsedine e cloro, **viso, 
 
 **Delicato Visage** di **Omia** - Linea Alimenta. Trattamento viso esfoliante e detergente delicato che rimuove le impurità, come cellule morte e sebo, anche dalle pelli più sensibili, senza seccare la pelle. Le sfere presenti all'interno della texture agiscono sulla pelle per un'azione esfoliante non aggressiva, adatta anche alle pelli più sensibili.
 
-![](10.jpg)
+![](16.jpg)
 
 **Blush compatto con Acido Ialuronico e Mirto Selvatico** di **Bottega Verde Toscana** Appartiene alla linea make-up D’Amore D’Accordo questo blush dalla texture morbida, sottile e vellutata, pensato per ravvivare l’incarnato e donare un tocco di colore naturale e luminoso. Con Acido Ialuronico, noto per le sue proprietà idratanti e Mirto Selvatico, si applica e si sfuma con estrema facilità. Disponibile in 4 nuance – Fragola, Rosa, Malva e Cannella –si adatta a ogni tipo di carnagione, permettendo di modulare il colore con un effetto personalizzato. 
 
 **Posh Tone Up — SPF50+** di **Purepeak** Stick solare naturale anti-età della linea Beauty Solid per un'azione quotidiana di protezione completa in un velo leggero e traspirante. Una delicata tonalità lilla illumina l'incarnato, proteggendo dai raggi UV, rassodando la pelle e donando un finish soft-focus. Un prodotto essenziale per chi viaggia: solido, senza acqua, legale da portare in cabina, si applica direttamente sulla pelle senza passare attraverso le mani. Così la pelle rimane protetta sempre e ovunque. Tappo ermetico a molla, formula che si espande durante l'uso, ABS riciclato post-consumo in alcuni elementi. Coperto da brevetto.
 
-![](16.jpg)
+![](10.jpg)
 
 **Unforeseen Aer** di **Aesop**. Segue la storia di un vento leggero che, temendo i disagi che potrebbe causare, impara presto a godere del sublime caos generato dalle sue raffiche e dalle sue selvagge brezze. Presenta un accordo fiabesco di Geranio, Lavandino e Rosmarino per evocare il profumo dell’Aria Pura che scorre tra vette impervie. Questo contrasto nitido di aromi si contrappone alla Noce Moscata, che rivela i pregi dell’imperfezione con il suo calore complesso e strutturato.
 
 **Nutriage Melatonin Serum** di **C.M.** (Cantabria Labs Difa Cooper), nuovo siero viso nutriente, rimpolpante e rassodante pensato per la pelle secca, sottile o caratterizzata da perdita di tonicità e compattezza. Con Melatosphere®, tecnologia esclusiva che utilizza una specifica miscela di oli vegetali di avocado, rosa mosqueta e opuntia per inglobare e veicolare la melatonina a livello cutaneo. Contiene aminoacidi pro-collagene, Palmitoyl Tripeptide-5, ad effetto tensore. 
-
 
 ![](12.jpg)
 
