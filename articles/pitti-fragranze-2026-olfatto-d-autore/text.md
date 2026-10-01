@@ -39,7 +39,7 @@ Il nome stesso è una espressione latina che indica una rarità preziosa e fuori
 
 Dalla solarità delle sponde di Capri a una dimensione notturna ed intima, **Carthusia** svela il nuovo capitolo della sua Collezione Intenso: **Intenso di Nero**. Per questa creazione, la storica maison rinnova la felice collaborazione con il **maestro profumiere Meo Fusciuni**, affidandogli il compito di esplorare il lato più profondo, misterioso e magnetico dell'universo del brand attraverso un vero e proprio manifesto di contrasti. 
 
-![](11copia.jpg)
+![](16.jpg)
 
 La preziosa tensione speziata dello zafferano si fonde con le sfumature scure e fruttate del cassis, mentre un tocco materico di cioccolato avvolge l'esordio conferendogli una personalità immediata e nettamente distintiva. Nel nucleo, una sontuosa rosa incontra legni e spezie, mentre sottili accenti floreali ricreano una perfetta armonia tra sensualità e profondità. La chiusura rivela note preziose di fava tonka assoluta e vaniglia assoluta, sigillate dal calore resinoso del benzoino. **Composizione cuoiata e gourmand che si posa sulla pelle come un velo vellutato e persistente**, dimostrando come anche il buio più fitto possa rivelare, lentamente, la propria straordinaria luce.
 
