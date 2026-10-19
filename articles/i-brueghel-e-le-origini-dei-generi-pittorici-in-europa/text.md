@@ -49,12 +49,8 @@ Palazzo Reale, Piazza del Duomo 12, Milano – sala piano terra
 
 29 settembre 2026 – 31 gennaio 2027
 
-+39 02 54912 (attivo dal lunedì al sabato 
++39 02 54912 (attivo dal lunedì al sabato dalle ore 9:30 alle ore 17:30).
 
-dalle ore 9:30 alle ore 17:30).
-
-palazzorealemilano.it | 
-
-mostraibrueghelmilano.it
+palazzorealemilano.it |  mostraibrueghelmilano.it
 
 vivaticket.com
