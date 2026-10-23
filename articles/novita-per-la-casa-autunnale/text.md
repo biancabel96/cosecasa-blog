@@ -55,7 +55,7 @@ Colori: Alarm Red, Azur, Sandstone, Pine, Lemon, Candy. Distribuito in Italia da
 
 ![](2.jpg)
 
-**Allegorie** di **Debonademeo Studio** che ha raccolto il patrimonio gestuale di Bottega Vazzoler e le sue tecniche tramandate — trasformandoli in un lessico materico che diventa contemporaneo senza perdere la sua radice. Un’eleganza arcaica, fatta di linee sinuose, superfici vibranti, segni netti. Le creazioni evocano forme ancestrali: vasi che richiamano l’arte etrusca, volumi costruiti per layer sovrapposti, ognuno portatore di una diversa lavorazione.
+**Stratigrafie** di **Bottega Vazzoler** collezione che raccoglie il patrimonio gestuale e le sue tecniche tramandate, trasformandoli in un lessico materico che diventa contemporaneo senza perdere la sua radice. Un’eleganza arcaica, fatta di linee sinuose, superfici vibranti, segni netti. Le creazioni evocano forme ancestrali: vasi che richiamano l’arte etrusca, volumi costruiti per layer sovrapposti, ognuno portatore di una diversa lavorazione. Design **Debonademeo**.
 
 **Virna** di **Vermobil** Una ricerca che parte dal design e arriva alla materia per questa poltrona outdoor di una eleganza senza tempo, per godere delle ultime belle giornate all’aperto. La produzione 100% italiana e la competenza nella lavorazione di acciaio, inox e alluminio sono infatti indicate tra i punti fondanti dell'identità aziendale.
 
