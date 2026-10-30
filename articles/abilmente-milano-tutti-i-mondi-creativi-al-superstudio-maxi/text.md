@@ -14,6 +14,8 @@ _di Maria Rosa Sirotti_
 Con oltre **120 brand espositori** e un ricco programma esperienziale, **Abilmente Milano** ha offerto ai partecipanti tanti workshop pratici per imparare tante **tecniche creative** e dare vita a **progetti fai-da-te**.
 Punto di riferimento per la community del DIY, è stata una quattro giorni immersiva rivolta a neofiti, esperti e appassionati di tutte le età. 
 
+![](11.jpg)
+
 Il cuore della manifestazione è stata la **Via delle Idee**, l'area espositiva che riunisce le **creazioni dei diversi
 mondi del DIY**: dai bijoux agli accessori, passando per la carta, lo scrapbooking, il colore, il ricamo tradizionale, il cucito e i filati. 
 
