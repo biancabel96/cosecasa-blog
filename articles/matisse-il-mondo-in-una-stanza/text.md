@@ -11,7 +11,7 @@ tags: Mostre, Cultura,
 _di Maria Rosa Sirotti_
 ![](banner.jpg)
 
-Il **MUDEC - Museo delle Culture** presenta un progetto espositivo sul **rapporto tra Henri Matisse e le culture extra-europee** che l’artista incontrò nel corso dei suoi studi e delle sue spedizioni. Il percorso riunisce circa **100 opere tra dipinti, lavori su carta, sculture e fotografie**, provenienti da prestigiosi istituti internazionali abbracciando l'intero arco dell’opera dell'artista **in 8 sezioni**, ciascuna delle quali analizza un tema chiave nell’evoluzione della sua ricerca.
+Con **Matisse. Il mondo in una stanza**, fino al **21 Febbraio 2027**, il **MUDEC - Museo delle Culture** presenta un progetto espositivo sul **rapporto tra Henri Matisse e le culture extra-europee** che l’artista incontrò nel corso dei suoi studi e delle sue spedizioni. Il percorso riunisce circa **100 opere tra dipinti, lavori su carta, sculture e fotografie**, provenienti da prestigiosi istituti internazionali abbracciando l'intero arco dell’opera dell'artista **in 8 sezioni**, ciascuna delle quali analizza un tema chiave nell’evoluzione della sua ricerca.
 
 ![](3.jpg)
 
@@ -55,6 +55,12 @@ Il percorso della mostra si conclude davanti all’ultimo quadro realizzato da M
 
 La mostra, a cura di **Ellen McBreen e Chiara Gatti**, prodotta da **24 ORE Cultura – Gruppo Il Sole 24 ORE** e promossa dal **Comune di Milano – Cultura**, è realizzata in collaborazione con il **Musée Matisse di Nizza** ed è sostenuta da **Unipol** come Main Sponsor e supportata come Sponsor da **Turisanda1924**, esclusivo brand di viaggi di Alpitour World, da **Enel** e da **BPER Banca**.
 
+_Ph.Credits: Maria Rosa Sirotti_
+
 **MUDEC**
 
 Via Tortona 56, tel. 02/54917 (Lun-Ven 10.00-17.00)
+
+Matisse. Il mondo in una stanza
+
+fino al 21 Febbraio 2027
